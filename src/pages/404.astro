@@ -1,0 +1,18 @@
+---
+import Base from '../layouts/Base.astro';
+import Button from '../components/Button.astro';
+import { site, telHref } from '../lib/site';
+---
+
+<Base title="Page not found" noindex>
+  <section class="mx-auto max-w-3xl px-4 py-24 text-center">
+    <p class="font-display text-7xl text-flame">404</p>
+    <h1 class="mt-4 text-3xl font-bold">This road doesn't go anywhere</h1>
+    <p class="mt-4 text-lg text-muted">The page you're looking for isn't here. Try one of these instead.</p>
+    <div class="mt-8 flex flex-wrap justify-center gap-3">
+      <Button href="/">Home</Button>
+      <Button href="/services/" variant="secondary">Services</Button>
+      <Button href={telHref} variant="secondary">Call {site.phone}</Button>
+    </div>
+  </section>
+</Base>

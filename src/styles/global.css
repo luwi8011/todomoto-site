@@ -1,0 +1,60 @@
+@import "tailwindcss";
+
+/* Design tokens. Brand red and charcoal come from the WordPress theme;
+   flame is the hand-lettered hero color on the old home page. */
+@theme {
+  --color-ink: #1a1817;
+  --color-charcoal: #242222;
+  --color-surface: #2f2c2a;
+  --color-line: #45403c;
+  --color-cream: #f1eadf;
+  --color-muted: #b9b1a6;
+  --color-brand: #871518;
+  --color-brand-hover: #a01b1f;
+  --color-flame: #ec8a6a;
+  --color-tan: #a27d60;
+
+  --font-display: var(--font-marker);
+  --font-sans: var(--font-slab);
+}
+
+@layer base {
+  html {
+    color-scheme: dark;
+    background: var(--color-charcoal);
+    color: var(--color-cream);
+    font-family: var(--font-sans);
+    -webkit-text-size-adjust: 100%;
+  }
+
+  :focus-visible {
+    outline: 3px solid var(--color-flame);
+    outline-offset: 3px;
+  }
+
+  a {
+    text-underline-offset: 0.2em;
+  }
+}
+
+/* Rendered Markdown from src/content. */
+@layer components {
+  .prose-shop {
+    max-width: 68ch;
+    font-size: 1.0625rem;
+    line-height: 1.7;
+  }
+  .prose-shop > * + * { margin-top: 1.1em; }
+  .prose-shop h2 {
+    margin-top: 2em;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1.25;
+  }
+  .prose-shop a {
+    color: var(--color-flame);
+    text-decoration: underline;
+  }
+  .prose-shop ul { list-style: disc; padding-left: 1.25em; }
+  .prose-shop img { border-radius: 0.5rem; }
+}

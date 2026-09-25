@@ -1,0 +1,27 @@
+---
+import { Image } from 'astro:assets';
+import type { ImageMetadata } from 'astro';
+import { site } from '../lib/site';
+
+const logos = import.meta.glob<{ default: ImageMetadata }>('../assets/images/partners/*', { eager: true });
+const logo = (file: string) => {
+  const mod = logos[`../assets/images/${file}`];
+  if (!mod) throw new Error(`Partner logo not found: src/assets/images/${file}`);
+  return mod.default;
+};
+---
+
+<ul class="grid grid-cols-2 gap-4 sm:grid-cols-4">
+  {
+    site.partners.map((p) => (
+      <li>
+        <a href={p.url} class="group block">
+          <div class="grid h-28 place-items-center rounded-lg bg-cream p-4 transition-transform group-hover:-translate-y-0.5">
+            <Image src={logo(p.logo)} alt={`${p.name} logo`} height={80} class="max-h-full w-auto object-contain" />
+          </div>
+          <p class="mt-2 text-center group-hover:text-flame">{p.name}</p>
+        </a>
+      </li>
+    ))
+  }
+</ul>

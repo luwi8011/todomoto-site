@@ -1,0 +1,1207 @@
+[
+  {
+    "id": 611,
+    "date": "2026-04-25T00:40:45",
+    "date_gmt": "2026-04-25T00:40:45",
+    "guid": {
+      "rendered": "https://todomotoboulder.com/?page_id=611"
+    },
+    "modified": "2026-08-14T16:53:40",
+    "modified_gmt": "2026-08-14T16:53:40",
+    "slug": "home",
+    "status": "publish",
+    "type": "page",
+    "link": "https://todomotoboulder.com/",
+    "title": {
+      "rendered": "Home"
+    },
+    "content": {
+      "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"611\" class=\"elementor elementor-611\" data-elementor-post-type=\"page\">\n\t\t\t\t<div class=\"elementor-element elementor-element-0ed4fa2 e-flex e-con-boxed e-con e-parent\" data-id=\"0ed4fa2\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-a0b8ff4 elementor-widget elementor-widget-heading\" data-id=\"a0b8ff4\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Welcome to</h2>\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-f7e4ec0 elementor-widget elementor-widget-heading\" data-id=\"f7e4ec0\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h1 class=\"elementor-heading-title elementor-size-default\">Boulder's independent motorcycle shop</h1>\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-24ee365 e-flex e-con-boxed e-con e-parent\" data-id=\"24ee365\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-1998090 elementor-widget elementor-widget-text-editor\" data-id=\"1998090\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t\t\t\t\t\t<p>Service you can trust. From people who ride. Based in Boulder, Colorado.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-5783d14 elementor-align-center elementor-widget elementor-widget-button\" data-id=\"5783d14\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/contact-us/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t<span class=\"elementor-button-icon\">\n\t\t\t\t<svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-wrench\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M507.73 109.1c-2.24-9.03-13.54-12.09-20.12-5.51l-74.36 74.36-67.88-11.31-11.31-67.88 74.36-74.36c6.62-6.62 3.43-17.9-5.66-20.16-47.38-11.74-99.55.91-136.58 37.93-39.64 39.64-50.55 97.1-34.05 147.2L18.74 402.76c-24.99 24.99-24.99 65.51 0 90.5 24.99 24.99 65.51 24.99 90.5 0l213.21-213.21c50.12 16.71 107.47 5.68 147.37-34.22 37.07-37.07 49.7-89.32 37.91-136.73zM64 472c-13.25 0-24-10.75-24-24 0-13.26 10.75-24 24-24s24 10.74 24 24c0 13.25-10.75 24-24 24z\"></path></svg>\t\t\t</span>\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Book your service now</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-578f8fe elementor-widget elementor-widget-spacer\" data-id=\"578f8fe\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"spacer.default\">\n\t\t\t\t\t\t\t<div class=\"elementor-spacer\">\n\t\t\t<div class=\"elementor-spacer-inner\"></div>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-6ed4e0b e-con-full e-flex e-con e-child\" data-id=\"6ed4e0b\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-b5b1386 elementor-widget elementor-widget-text-editor\" data-id=\"b5b1386\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t\t\t\t\t\t<p>Tuesday &#8211; Friday: 10:30am to 5:30pm<br>Saturday: 10:30am to 5pm</p>\n<p>Phone: <span aria-label=\"Call Phone Number (303) 257-5044\">(303) 257-5044<br>Email: Shop@TodoMotoBoulder.com</span></p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-b5931e8 e-flex e-con-boxed e-con e-parent\" data-id=\"b5931e8\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-49a7cf3 elementor-widget-divider--view-line elementor-widget elementor-widget-divider\" data-id=\"49a7cf3\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"divider.default\">\n\t\t\t\t\t\t\t<div class=\"elementor-divider\">\n\t\t\t<span class=\"elementor-divider-separator\">\n\t\t\t\t\t\t</span>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-5ea15f3 elementor-widget elementor-widget-heading\" data-id=\"5ea15f3\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Thanks to our awesome partners</h2>\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-0d44766 e-grid e-con-boxed e-con e-parent\" data-id=\"0d44766\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-b7e1e5e elementor-position-top elementor-widget elementor-widget-image-box\" data-id=\"b7e1e5e\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"image-box.default\">\n\t\t\t\t\t<div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><a href=\"https://www.vikingbags.com/\" tabindex=\"-1\"><img decoding=\"async\" width=\"130\" height=\"108\" src=\"https://todomotoboulder.com/wp-content/uploads/2026/04/NEW_Vikingbags_logo_16_Version.avif\" class=\"attachment-full size-full wp-image-537\" alt=\"\" /></a></figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\"><a href=\"https://www.vikingbags.com/\">Viking Bags</a></h3></div></div>\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-042fc32 elementor-position-top elementor-widget elementor-widget-image-box\" data-id=\"042fc32\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"image-box.default\">\n\t\t\t\t\t<div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><a href=\"https://riderjustice.com/\" tabindex=\"-1\"><img decoding=\"async\" width=\"300\" height=\"166\" src=\"https://todomotoboulder.com/wp-content/uploads/2026/04/RJ_BlackBlue-01-e1629307274367.jpg\" class=\"attachment-full size-full wp-image-545\" alt=\"\" /></a></figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\"><a href=\"https://riderjustice.com/\">Rider Justice</a></h3></div></div>\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-4252c6d elementor-position-top elementor-widget elementor-widget-image-box\" data-id=\"4252c6d\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"image-box.default\">\n\t\t\t\t\t<div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><a href=\"https://www.roost-concepts.com/\" tabindex=\"-1\"><img decoding=\"async\" width=\"400\" height=\"67\" src=\"https://todomotoboulder.com/wp-content/uploads/2026/04/Roost-Concepts-Logo-black-2C-Tight.png\" class=\"attachment-full size-full wp-image-554\" alt=\"\" srcset=\"https://todomotoboulder.com/wp-content/uploads/2026/04/Roost-Concepts-Logo-black-2C-Tight.png 400w, https://todomotoboulder.com/wp-content/uploads/2026/04/Roost-Concepts-Logo-black-2C-Tight-300x50.png 300w\" sizes=\"(max-width: 400px) 100vw, 400px\" /></a></figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\"><a href=\"https://www.roost-concepts.com/\">Roost Concepts</a></h3></div></div>\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-859fd1e elementor-position-top elementor-widget elementor-widget-image-box\" data-id=\"859fd1e\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"image-box.default\">\n\t\t\t\t\t<div class=\"elementor-image-box-wrapper\"><figure class=\"elementor-image-box-img\"><a href=\"https://wilsonfab.com/\" tabindex=\"-1\"><img loading=\"lazy\" decoding=\"async\" width=\"610\" height=\"609\" src=\"https://todomotoboulder.com/wp-content/uploads/2026/04/LOGO-copy-solo-PhotoRoom.png\" class=\"attachment-full size-full wp-image-558\" alt=\"\" srcset=\"https://todomotoboulder.com/wp-content/uploads/2026/04/LOGO-copy-solo-PhotoRoom.png 610w, https://todomotoboulder.com/wp-content/uploads/2026/04/LOGO-copy-solo-PhotoRoom-300x300.png 300w, https://todomotoboulder.com/wp-content/uploads/2026/04/LOGO-copy-solo-PhotoRoom-150x150.png 150w\" sizes=\"(max-width: 610px) 100vw, 610px\" /></a></figure><div class=\"elementor-image-box-content\"><h3 class=\"elementor-image-box-title\"><a href=\"https://wilsonfab.com/\">Wilson Fabrication</a></h3></div></div>\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-60f55ec e-flex e-con-boxed e-con e-parent\" data-id=\"60f55ec\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-a238de6 elementor-widget-divider--view-line elementor-widget elementor-widget-divider\" data-id=\"a238de6\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"divider.default\">\n\t\t\t\t\t\t\t<div class=\"elementor-divider\">\n\t\t\t<span class=\"elementor-divider-separator\">\n\t\t\t\t\t\t</span>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Welcome to Boulder&#8217;s independent motorcycle shop Service you can trust. From people who ride. Based in Boulder, Colorado. Book your service now Tuesday &#8211; Friday: 10:30am to 5:30pmSaturday: 10:30am to 5pm Phone: (303) 257-5044Email: Shop@TodoMotoBoulder.com Thanks to our awesome partners Viking Bags Rider Justice Roost Concepts Wilson Fabrication</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 47,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "class_list": [
+      "post-611",
+      "page",
+      "type-page",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/611",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=611"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 27,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/611/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 649,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/611/revisions/649"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/47"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media?parent=611"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 459,
+    "date": "2026-03-06T20:54:28",
+    "date_gmt": "2026-03-06T20:54:28",
+    "guid": {
+      "rendered": "https://todomotoboulder.com/?page_id=459"
+    },
+    "modified": "2026-03-06T21:01:43",
+    "modified_gmt": "2026-03-06T21:01:43",
+    "slug": "e-bike",
+    "status": "publish",
+    "type": "page",
+    "link": "https://todomotoboulder.com/services/e-bike/",
+    "title": {
+      "rendered": "E-bike Service"
+    },
+    "content": {
+      "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"459\" class=\"elementor elementor-459\" data-elementor-post-type=\"page\">\n\t\t\t\t<div class=\"elementor-element elementor-element-e99dfbf e-flex e-con-boxed e-con e-parent\" data-id=\"e99dfbf\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-20809fb elementor-widget elementor-widget-heading\" data-id=\"20809fb\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">E-Bike Service in Boulder</h2>\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-593dc2c e-flex e-con-boxed e-con e-parent\" data-id=\"593dc2c\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-e1826cd elementor-widget elementor-widget-text-editor\" data-id=\"e1826cd\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t\t\t\t\t\t<p data-start=\"1354\" data-end=\"1576\">Electric bikes and electric dirt bikes are becoming increasingly popular around Boulder, and Todo Moto offers professional electric bike repair near me services for riders who need reliable maintenance and diagnostics.</p><p data-start=\"1578\" data-end=\"1859\">Our shop services a variety of electric platforms including Surron, Talaria, and E-Ride Pro bikes. Whether you&#8217;re dealing with drivetrain issues, controller problems, suspension service, or general maintenance, we provide expert electric bike repair in Boulder, CO.</p><p data-start=\"1861\" data-end=\"2100\">Unlike traditional bicycles, high-performance electric bikes combine motorcycle-style components with advanced electronics. Proper electric bike maintenance ensures your bike delivers maximum performance, reliability, and battery life.</p><p data-start=\"2102\" data-end=\"2246\">If you ride trails around Boulder or commute around town on an electric bike, Todo Moto can help keep your machine performing the way it should.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-98acda7 e-grid e-con-boxed e-con e-parent\" data-id=\"98acda7\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-194fdbe elementor-widget elementor-widget-button\" data-id=\"194fdbe\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-diagnosis/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Diagnosis</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-9598701 elementor-widget elementor-widget-button\" data-id=\"9598701\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-inspection/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Inspection</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-b627e65 elementor-widget elementor-widget-button\" data-id=\"b627e65\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-oil-change/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Oil Change</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-b783c58 elementor-widget elementor-widget-button\" data-id=\"b783c58\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-repair/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Repair</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-fe0de7e elementor-widget elementor-widget-button\" data-id=\"fe0de7e\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-tire-change/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Tire Change</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-fe30009 elementor-widget elementor-widget-button\" data-id=\"fe30009\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/scooter-and-vespa-service/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Scooter and Vespa</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-be66307 elementor-widget elementor-widget-button\" data-id=\"be66307\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Services</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-ba1768f e-flex e-con-boxed e-con e-parent\" data-id=\"ba1768f\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-51c59f5 elementor-widget-divider--view-line elementor-widget elementor-widget-divider\" data-id=\"51c59f5\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"divider.default\">\n\t\t\t\t\t\t\t<div class=\"elementor-divider\">\n\t\t\t<span class=\"elementor-divider-separator\">\n\t\t\t\t\t\t</span>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>E-Bike Service in Boulder Electric bikes and electric dirt bikes are becoming increasingly popular around Boulder, and Todo Moto offers professional electric bike repair near me services for riders who need reliable maintenance and diagnostics. Our shop services a variety of electric platforms including Surron, Talaria, and E-Ride Pro bikes. Whether you&#8217;re dealing with drivetrain [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 79,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "class_list": [
+      "post-459",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/459",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=459"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 11,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/459/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 480,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/459/revisions/480"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/79"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media?parent=459"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 452,
+    "date": "2026-03-06T18:39:44",
+    "date_gmt": "2026-03-06T18:39:44",
+    "guid": {
+      "rendered": "https://todomotoboulder.com/?page_id=452"
+    },
+    "modified": "2026-03-06T21:01:24",
+    "modified_gmt": "2026-03-06T21:01:24",
+    "slug": "scooter-and-vespa-service",
+    "status": "publish",
+    "type": "page",
+    "link": "https://todomotoboulder.com/services/scooter-and-vespa-service/",
+    "title": {
+      "rendered": "Scooter and Vespa Service"
+    },
+    "content": {
+      "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"452\" class=\"elementor elementor-452\" data-elementor-post-type=\"page\">\n\t\t\t\t<div class=\"elementor-element elementor-element-b9bade5 e-flex e-con-boxed e-con e-parent\" data-id=\"b9bade5\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-1afcba3 elementor-widget elementor-widget-heading\" data-id=\"1afcba3\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Scooter Repair in Boulder, CO</h2>\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-2c0254b e-flex e-con-boxed e-con e-parent\" data-id=\"2c0254b\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-736aa35 elementor-widget elementor-widget-text-editor\" data-id=\"736aa35\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t\t\t\t\t\t<p data-start=\"287\" data-end=\"600\">If you&#8217;re searching for scooter repair near me in Boulder, CO, Todo Moto provides professional service for modern scooters and small-displacement commuter bikes. Whether you rely on your scooter for daily transportation or weekend riding around Boulder, regular maintenance and reliable repairs are essential.</p><p data-start=\"602\" data-end=\"821\">Our shop handles everything from routine service to full scooter repair work. We can help with engine issues, brakes, tires, electrical troubleshooting, and general maintenance to keep your scooter running smoothly.</p><p data-start=\"823\" data-end=\"1081\">Scooters are popular throughout Boulder for their efficiency and convenience, but they still require proper care. At Todo Moto we understand the mechanical differences between scooters and motorcycles, and we service both carbureted and fuel-injected models.</p><p data-start=\"1083\" data-end=\"1241\">If you&#8217;re looking for scooter repair near me in Boulder, our shop provides honest diagnostics and fast turnaround so you can get back on the road quickly.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-725e0de e-grid e-con-boxed e-con e-parent\" data-id=\"725e0de\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-123a4a5 elementor-widget elementor-widget-button\" data-id=\"123a4a5\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-diagnosis/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Diagnosis</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-e5b8e2b elementor-widget elementor-widget-button\" data-id=\"e5b8e2b\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-inspection/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Inspection</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-464cece elementor-widget elementor-widget-button\" data-id=\"464cece\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-oil-change/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Oil Change</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-604207f elementor-widget elementor-widget-button\" data-id=\"604207f\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-repair/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Repair</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-0425141 elementor-widget elementor-widget-button\" data-id=\"0425141\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-tire-change/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Tire Change</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-d0c1bf9 elementor-widget elementor-widget-button\" data-id=\"d0c1bf9\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Services</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-1e541fa elementor-widget elementor-widget-button\" data-id=\"1e541fa\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/e-bike/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">E-Bikes</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-c91991a e-flex e-con-boxed e-con e-parent\" data-id=\"c91991a\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-dedc630 elementor-widget-divider--view-line elementor-widget elementor-widget-divider\" data-id=\"dedc630\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"divider.default\">\n\t\t\t\t\t\t\t<div class=\"elementor-divider\">\n\t\t\t<span class=\"elementor-divider-separator\">\n\t\t\t\t\t\t</span>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Scooter Repair in Boulder, CO If you&#8217;re searching for scooter repair near me in Boulder, CO, Todo Moto provides professional service for modern scooters and small-displacement commuter bikes. Whether you rely on your scooter for daily transportation or weekend riding around Boulder, regular maintenance and reliable repairs are essential. Our shop handles everything from routine [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 453,
+    "parent": 79,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "class_list": [
+      "post-452",
+      "page",
+      "type-page",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/452",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=452"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 10,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/452/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 477,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/452/revisions/477"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/79"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/453"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media?parent=452"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 389,
+    "date": "2026-03-04T22:37:29",
+    "date_gmt": "2026-03-04T22:37:29",
+    "guid": {
+      "rendered": "https://todomotoboulder.com/?page_id=389"
+    },
+    "modified": "2026-03-26T17:09:43",
+    "modified_gmt": "2026-03-26T17:09:43",
+    "slug": "motorcycle-inspection",
+    "status": "publish",
+    "type": "page",
+    "link": "https://todomotoboulder.com/services/motorcycle-inspection/",
+    "title": {
+      "rendered": "Motorcycle Inspection"
+    },
+    "content": {
+      "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"389\" class=\"elementor elementor-389\" data-elementor-post-type=\"page\">\n\t\t\t\t<div class=\"elementor-element elementor-element-4b035ca e-flex e-con-boxed e-con e-parent\" data-id=\"4b035ca\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-33509c6 elementor-widget elementor-widget-heading\" data-id=\"33509c6\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h1 class=\"elementor-heading-title elementor-size-default\">Motorcycle Inspection in Boulder, CO</h1>\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-1fa9237 e-flex e-con-boxed e-con e-parent\" data-id=\"1fa9237\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-58bde5e elementor-widget elementor-widget-text-editor\" data-id=\"58bde5e\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t\t\t\t\t\t<p data-start=\"4038\" data-end=\"4238\">A professional motorcycle inspection can catch small issues before they become expensive repairs. Todo Moto offers thorough inspections for safety, maintenance planning, and general peace of mind.</p><p data-start=\"4240\" data-end=\"4374\">Our motorcycle general inspection service in Boulder covers brakes, tires, drivetrain, fluids, suspension, and critical fasteners.</p><p data-start=\"4376\" data-end=\"4466\">Perfect for seasonal checkups, pre-purchase inspections, or getting ready for a long ride.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-2f89728 e-grid e-con-boxed e-con e-parent\" data-id=\"2f89728\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-f334ab3 elementor-widget elementor-widget-button\" data-id=\"f334ab3\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-diagnosis/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Diagnosis</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-1c7d510 elementor-widget elementor-widget-button\" data-id=\"1c7d510\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Services</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-7d321ea elementor-widget elementor-widget-button\" data-id=\"7d321ea\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-oil-change/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Oil Change</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-c497cd4 elementor-widget elementor-widget-button\" data-id=\"c497cd4\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-repair/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Repair</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-af75fb2 elementor-widget elementor-widget-button\" data-id=\"af75fb2\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-tire-change/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Tire Change</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-203d765 elementor-widget elementor-widget-button\" data-id=\"203d765\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/scooter-and-vespa-service/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Scooter and Vespa</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-83173fd elementor-widget elementor-widget-button\" data-id=\"83173fd\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/e-bike/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">E-Bikes</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-2f0b1bf e-flex e-con-boxed e-con e-parent\" data-id=\"2f0b1bf\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-65b73e8 elementor-widget-divider--view-line elementor-widget elementor-widget-divider\" data-id=\"65b73e8\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"divider.default\">\n\t\t\t\t\t\t\t<div class=\"elementor-divider\">\n\t\t\t<span class=\"elementor-divider-separator\">\n\t\t\t\t\t\t</span>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Motorcycle Inspection in Boulder, CO A professional motorcycle inspection can catch small issues before they become expensive repairs. Todo Moto offers thorough inspections for safety, maintenance planning, and general peace of mind. Our motorcycle general inspection service in Boulder covers brakes, tires, drivetrain, fluids, suspension, and critical fasteners. Perfect for seasonal checkups, pre-purchase inspections, or [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 390,
+    "parent": 79,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "class_list": [
+      "post-389",
+      "page",
+      "type-page",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/389",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=389"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 16,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/389/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 495,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/389/revisions/495"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/79"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/390"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media?parent=389"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 381,
+    "date": "2026-03-04T22:32:38",
+    "date_gmt": "2026-03-04T22:32:38",
+    "guid": {
+      "rendered": "https://todomotoboulder.com/?page_id=381"
+    },
+    "modified": "2026-03-06T21:05:37",
+    "modified_gmt": "2026-03-06T21:05:37",
+    "slug": "motorcycle-diagnosis",
+    "status": "publish",
+    "type": "page",
+    "link": "https://todomotoboulder.com/services/motorcycle-diagnosis/",
+    "title": {
+      "rendered": "Motorcycle Diagnosis"
+    },
+    "content": {
+      "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"381\" class=\"elementor elementor-381\" data-elementor-post-type=\"page\">\n\t\t\t\t<div class=\"elementor-element elementor-element-3690495 e-flex e-con-boxed e-con e-parent\" data-id=\"3690495\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-67a1854 elementor-widget elementor-widget-heading\" data-id=\"67a1854\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Motorcycle Diagnosis</h2>\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-e12bc10 e-flex e-con-boxed e-con e-parent\" data-id=\"e12bc10\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-2a96e46 elementor-widget elementor-widget-text-editor\" data-id=\"2a96e46\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t\t\t\t\t\t<p data-start=\"3516\" data-end=\"3695\">Modern bikes are complex, and proper motorcycle diagnosis is key to avoiding unnecessary repairs. At Todo Moto, we take a systematic approach to identifying issues accurately.</p><p data-start=\"3697\" data-end=\"3851\">Whether you’re experiencing intermittent problems or warning lights, our motorcycle diag services in Boulder, CO help pinpoint the root cause quickly.</p><p data-start=\"3853\" data-end=\"3950\">Correct diagnosis saves time, money, and frustration — and that’s exactly what we aim to deliver.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-a5f2692 e-grid e-con-boxed e-con e-parent\" data-id=\"a5f2692\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-2708a3d elementor-widget elementor-widget-button\" data-id=\"2708a3d\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Services</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-e80177c elementor-widget elementor-widget-button\" data-id=\"e80177c\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-inspection/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Inspection</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-311fead elementor-widget elementor-widget-button\" data-id=\"311fead\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-oil-change/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Oil Change</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-21bcaed elementor-widget elementor-widget-button\" data-id=\"21bcaed\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-repair/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Repair</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-8885e15 elementor-widget elementor-widget-button\" data-id=\"8885e15\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-tire-change/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Tire Change</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-8f666a4 elementor-widget elementor-widget-button\" data-id=\"8f666a4\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/scooter-and-vespa-service/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Scooter and Vespa</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-8bd628f elementor-widget elementor-widget-button\" data-id=\"8bd628f\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/e-bike/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">E-Bikes</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-02877a7 e-flex e-con-boxed e-con e-parent\" data-id=\"02877a7\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-bd3a7a4 elementor-widget-divider--view-line elementor-widget elementor-widget-divider\" data-id=\"bd3a7a4\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"divider.default\">\n\t\t\t\t\t\t\t<div class=\"elementor-divider\">\n\t\t\t<span class=\"elementor-divider-separator\">\n\t\t\t\t\t\t</span>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Motorcycle Diagnosis in Boulder Colorado</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 79,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "class_list": [
+      "post-381",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/381",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=381"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 14,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/381/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 498,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/381/revisions/498"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/79"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media?parent=381"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 376,
+    "date": "2026-03-04T22:24:10",
+    "date_gmt": "2026-03-04T22:24:10",
+    "guid": {
+      "rendered": "https://todomotoboulder.com/?page_id=376"
+    },
+    "modified": "2026-04-25T00:42:00",
+    "modified_gmt": "2026-04-25T00:42:00",
+    "slug": "motorcycle-repair",
+    "status": "publish",
+    "type": "page",
+    "link": "https://todomotoboulder.com/services/motorcycle-repair/",
+    "title": {
+      "rendered": "Motorcycle Repair"
+    },
+    "content": {
+      "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"376\" class=\"elementor elementor-376\" data-elementor-post-type=\"page\">\n\t\t\t\t<div class=\"elementor-element elementor-element-62b1082 e-flex e-con-boxed e-con e-parent\" data-id=\"62b1082\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-64709f6 elementor-widget elementor-widget-heading\" data-id=\"64709f6\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h1 class=\"elementor-heading-title elementor-size-default\">Motorcycle Repair in Boulder Col0rado</h1>\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-fbd8da1 e-flex e-con-boxed e-con e-parent\" data-id=\"fbd8da1\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-0240a14 elementor-widget elementor-widget-text-editor\" data-id=\"0240a14\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t\t\t\t\t\t<p data-start=\"2967\" data-end=\"3123\">Searching for a trusted motorcycle repair shop near me? Todo Moto is a full-service motorcycle repair shop serving Boulder and the surrounding area.</p><p data-start=\"3125\" data-end=\"3339\">We handle everything from mechanical repairs to electrical issues, suspension work, and performance upgrades. Our approach is straightforward: diagnose the problem correctly, explain your options, and fix it right.</p><p data-start=\"3341\" data-end=\"3421\">If your bike isn’t running the way it should, our Boulder shop is ready to help.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-fa18cf0 e-grid e-con-boxed e-con e-parent\" data-id=\"fa18cf0\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-cf846e7 elementor-widget elementor-widget-button\" data-id=\"cf846e7\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-diagnosis/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Diagnosis</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-6c80795 elementor-widget elementor-widget-button\" data-id=\"6c80795\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-inspection/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Inspection</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-ae4c3ba elementor-widget elementor-widget-button\" data-id=\"ae4c3ba\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-oil-change/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Oil Change</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-69b3126 elementor-widget elementor-widget-button\" data-id=\"69b3126\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Services</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-38ba091 elementor-widget elementor-widget-button\" data-id=\"38ba091\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-tire-change/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Tire Change</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-88587d8 elementor-widget elementor-widget-button\" data-id=\"88587d8\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/scooter-and-vespa-service/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Scooter and Vespa</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-462945f elementor-widget elementor-widget-button\" data-id=\"462945f\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/e-bike/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">E-Bikes</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-209f521 e-flex e-con-boxed e-con e-parent\" data-id=\"209f521\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-731f2d2 elementor-widget-divider--view-line elementor-widget elementor-widget-divider\" data-id=\"731f2d2\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"divider.default\">\n\t\t\t\t\t\t\t<div class=\"elementor-divider\">\n\t\t\t<span class=\"elementor-divider-separator\">\n\t\t\t\t\t\t</span>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Motorcycle repair in Boulder Colorado</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 334,
+    "parent": 79,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "class_list": [
+      "post-376",
+      "page",
+      "type-page",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/376",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=376"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 16,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/376/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 620,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/376/revisions/620"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/79"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/334"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media?parent=376"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 358,
+    "date": "2026-03-04T21:57:44",
+    "date_gmt": "2026-03-04T21:57:44",
+    "guid": {
+      "rendered": "https://todomotoboulder.com/?page_id=358"
+    },
+    "modified": "2026-03-26T17:11:43",
+    "modified_gmt": "2026-03-26T17:11:43",
+    "slug": "motorcycle-oil-change",
+    "status": "publish",
+    "type": "page",
+    "link": "https://todomotoboulder.com/services/motorcycle-oil-change/",
+    "title": {
+      "rendered": "Motorcycle Oil Change "
+    },
+    "content": {
+      "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"358\" class=\"elementor elementor-358\" data-elementor-post-type=\"page\">\n\t\t\t\t<div class=\"elementor-element elementor-element-a672f12 e-flex e-con-boxed e-con e-parent\" data-id=\"a672f12\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-16fcf49 elementor-widget elementor-widget-heading\" data-id=\"16fcf49\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h1 class=\"elementor-heading-title elementor-size-default\">Motorcycle Oil Change in Boulder, Colorado</h1>\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-0164a15 e-flex e-con-boxed e-con e-parent\" data-id=\"0164a15\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-f1114ad elementor-widget elementor-widget-text-editor\" data-id=\"f1114ad\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t\t\t\t\t\t<p data-start=\"2395\" data-end=\"2600\">Regular motorcycle oil change service is one of the easiest ways to extend engine life and improve performance. At Todo Moto in Boulder, CO, we use manufacturer-approved oil and filters for every bike.</p><p data-start=\"2602\" data-end=\"2787\">If you’re looking for an oil change for motorcycle near me, our shop offers quick turnaround and careful attention to details like crush washers, torque values, and proper disposal.</p><p data-start=\"2789\" data-end=\"2882\">From daily riders to weekend machines, we help keep your motorcycle running clean and smooth.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-d88a458 e-grid e-con-boxed e-con e-parent\" data-id=\"d88a458\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-6c85668 elementor-widget elementor-widget-button\" data-id=\"6c85668\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-diagnosis/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Diagnosis</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-92ba63f elementor-widget elementor-widget-button\" data-id=\"92ba63f\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-inspection/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Inspection</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-9da7dec elementor-widget elementor-widget-button\" data-id=\"9da7dec\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Services</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-58ef846 elementor-widget elementor-widget-button\" data-id=\"58ef846\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-repair/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Repair</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-14643ca elementor-widget elementor-widget-button\" data-id=\"14643ca\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-tire-change/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Tire Change</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-ab77a5d elementor-widget elementor-widget-button\" data-id=\"ab77a5d\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/scooter-and-vespa-service/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Scooter and Vespa</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-8d7025e elementor-widget elementor-widget-button\" data-id=\"8d7025e\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/e-bike/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">E-Bikes</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-2adc250 e-flex e-con-boxed e-con e-parent\" data-id=\"2adc250\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-d95c109 elementor-widget-divider--view-line elementor-widget elementor-widget-divider\" data-id=\"d95c109\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"divider.default\">\n\t\t\t\t\t\t\t<div class=\"elementor-divider\">\n\t\t\t<span class=\"elementor-divider-separator\">\n\t\t\t\t\t\t</span>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Boulder Colorado Motorcycle Oil Change </p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 372,
+    "parent": 79,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "class_list": [
+      "post-358",
+      "page",
+      "type-page",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/358",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=358"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 22,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/358/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 504,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/358/revisions/504"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/79"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/372"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media?parent=358"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 346,
+    "date": "2026-03-04T21:45:21",
+    "date_gmt": "2026-03-04T21:45:21",
+    "guid": {
+      "rendered": "https://todomotoboulder.com/?page_id=346"
+    },
+    "modified": "2026-03-26T17:12:09",
+    "modified_gmt": "2026-03-26T17:12:09",
+    "slug": "motorcycle-tire-change",
+    "status": "publish",
+    "type": "page",
+    "link": "https://todomotoboulder.com/services/motorcycle-tire-change/",
+    "title": {
+      "rendered": "Motorcycle Tire Change"
+    },
+    "content": {
+      "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"346\" class=\"elementor elementor-346\" data-elementor-post-type=\"page\">\n\t\t\t\t<div class=\"elementor-element elementor-element-ae518fb e-flex e-con-boxed e-con e-parent\" data-id=\"ae518fb\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-3f84abf elementor-widget elementor-widget-heading\" data-id=\"3f84abf\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h1 class=\"elementor-heading-title elementor-size-default\">Motorcycle Tire change in Boulder, CO</h1>\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-48d6597 e-flex e-con-boxed e-con e-parent\" data-id=\"48d6597\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-03e300f elementor-widget elementor-widget-text-editor\" data-id=\"03e300f\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t\t\t\t\t\t<p data-start=\"1700\" data-end=\"1944\">If you’re searching for motorcycle tire repair near me, Todo Moto provides fast, professional tire service right here in Boulder, CO. Whether you’re dealing with a puncture, worn rubber, or need a fresh set installed, we’ve got you covered.</p><p data-start=\"1946\" data-end=\"2186\">Our shop specializes in motorcycle tire installation and balancing services for street bikes, adventure bikes, and anything in between. We use proper mounting and balancing equipment to make sure your bike handles exactly as it should.</p><p data-start=\"2188\" data-end=\"2307\">Located in Boulder, we work on most makes and models and can help you choose the right tire for how and where you ride.</p><p>And yes, we install Bib Mousse and Tubliss</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-e36f3d2 e-grid e-con-boxed e-con e-parent\" data-id=\"e36f3d2\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-d5b2c2c elementor-widget elementor-widget-button\" data-id=\"d5b2c2c\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-diagnosis/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Diagnosis</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-23ab396 elementor-widget elementor-widget-button\" data-id=\"23ab396\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-inspection/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Inspection</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-f7c03dc elementor-widget elementor-widget-button\" data-id=\"f7c03dc\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-oil-change/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Oil Change</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-67c538b elementor-widget elementor-widget-button\" data-id=\"67c538b\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-repair/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Repair</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-0438853 elementor-widget elementor-widget-button\" data-id=\"0438853\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Services</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-2ec05f1 elementor-widget elementor-widget-button\" data-id=\"2ec05f1\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/scooter-and-vespa-service/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Scooter and Vespa</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-a39d751 elementor-widget elementor-widget-button\" data-id=\"a39d751\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/e-bike/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">E-Bikes</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-bd52855 e-flex e-con-boxed e-con e-parent\" data-id=\"bd52855\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-f2d4cb6 elementor-widget-divider--view-line elementor-widget elementor-widget-divider\" data-id=\"f2d4cb6\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"divider.default\">\n\t\t\t\t\t\t\t<div class=\"elementor-divider\">\n\t\t\t<span class=\"elementor-divider-separator\">\n\t\t\t\t\t\t</span>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Motorcycle Tire Repair in Boulder, CO</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 49,
+    "parent": 79,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "class_list": [
+      "post-346",
+      "page",
+      "type-page",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/346",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=346"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 13,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/346/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 483,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/346/revisions/483"
+        }
+      ],
+      "up": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/79"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/49"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media?parent=346"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 117,
+    "date": "2026-02-11T03:12:06",
+    "date_gmt": "2026-02-11T03:12:06",
+    "guid": {
+      "rendered": "https://todomotoboulder.com/?page_id=117"
+    },
+    "modified": "2026-04-25T00:48:45",
+    "modified_gmt": "2026-04-25T00:48:45",
+    "slug": "contact-us",
+    "status": "publish",
+    "type": "page",
+    "link": "https://todomotoboulder.com/contact-us/",
+    "title": {
+      "rendered": "Contact Us"
+    },
+    "content": {
+      "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"117\" class=\"elementor elementor-117\" data-elementor-post-type=\"page\">\n\t\t\t\t<div class=\"elementor-element elementor-element-31146de e-flex e-con-boxed e-con e-parent\" data-id=\"31146de\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-91ebfa3 elementor-widget elementor-widget-heading\" data-id=\"91ebfa3\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Contact Us</h2>\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-cf9c14c e-grid e-con-boxed e-con e-parent\" data-id=\"cf9c14c\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-69c9c92 elementor-widget elementor-widget-google_maps\" data-id=\"69c9c92\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"google_maps.default\">\n\t\t\t\t\t\t\t<div class=\"elementor-custom-embed\">\n\t\t\t<iframe loading=\"lazy\"\n\t\t\t\t\tsrc=\"https://maps.google.com/maps?q=5589%20arapahoe%20ave%20unit%20108&#038;t=m&#038;z=12&#038;output=embed&#038;iwloc=near\"\n\t\t\t\t\ttitle=\"5589 arapahoe ave unit 108\"\n\t\t\t\t\taria-label=\"5589 arapahoe ave unit 108\"\n\t\t\t></iframe>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-8b1e735 e-grid e-con-full e-con e-child\" data-id=\"8b1e735\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-80a6d48 elementor-widget elementor-widget-text-editor\" data-id=\"80a6d48\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t\t\t\t\t\t<p>Need help with your bike? Give us a call! or fill out the form below. Were always happy to help</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-9511aac elementor-view-default elementor-position-block-start elementor-mobile-position-block-start elementor-widget elementor-widget-icon-box\" data-id=\"9511aac\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"icon-box.default\">\n\t\t\t\t\t\t\t<div class=\"elementor-icon-box-wrapper\">\n\n\t\t\t\t\t\t<div class=\"elementor-icon-box-icon\">\n\t\t\t\t<span  class=\"elementor-icon\">\n\t\t\t\t<svg aria-hidden=\"true\" class=\"e-font-icon-svg e-fas-phone-alt\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M497.39 361.8l-112-48a24 24 0 0 0-28 6.9l-49.6 60.6A370.66 370.66 0 0 1 130.6 204.11l60.6-49.6a23.94 23.94 0 0 0 6.9-28l-48-112A24.16 24.16 0 0 0 122.6.61l-104 24A24 24 0 0 0 0 48c0 256.5 207.9 464 464 464a24 24 0 0 0 23.4-18.6l24-104a24.29 24.29 0 0 0-14.01-27.6z\"></path></svg>\t\t\t\t</span>\n\t\t\t</div>\n\t\t\t\n\t\t\t\t\t\t<div class=\"elementor-icon-box-content\">\n\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t<p class=\"elementor-icon-box-description\">\n\t\t\t\t\t\t<span style=\"font-family: Roboto, sans-serif;font-size: 23px;text-align: start\">(303) 257-5044</span>\t\t\t\t\t</p>\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-7d342a7 e-flex e-con-boxed e-con e-parent\" data-id=\"7d342a7\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-c203b35 elementor-button-align-stretch elementor-widget elementor-widget-form\" data-id=\"c203b35\" data-element_type=\"widget\" data-e-type=\"widget\" data-settings=\"{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}\" data-widget_type=\"form.default\">\n\t\t\t\t\t\t\t<form class=\"elementor-form\" method=\"post\" name=\"Contact Me\" aria-label=\"Contact Me\">\n\t\t\t<input type=\"hidden\" name=\"post_id\" value=\"117\"/>\n\t\t\t<input type=\"hidden\" name=\"form_id\" value=\"c203b35\"/>\n\t\t\t<input type=\"hidden\" name=\"referer_title\" value=\"\" />\n\n\t\t\t\n\t\t\t<div class=\"elementor-form-fields-wrapper elementor-labels-above\">\n\t\t\t\t\t\t\t\t<div class=\"elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100\">\n\t\t\t\t\t\t\t\t\t\t\t\t<label for=\"form-field-name\" class=\"elementor-field-label\">\n\t\t\t\t\t\t\t\tName\t\t\t\t\t\t\t</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input size=\"1\" type=\"text\" name=\"form_fields[name]\" id=\"form-field-name\" class=\"elementor-field elementor-size-sm  elementor-field-textual\" placeholder=\"Name\">\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-100 elementor-field-required\">\n\t\t\t\t\t\t\t\t\t\t\t\t<label for=\"form-field-email\" class=\"elementor-field-label\">\n\t\t\t\t\t\t\t\tEmail\t\t\t\t\t\t\t</label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input size=\"1\" type=\"email\" name=\"form_fields[email]\" id=\"form-field-email\" class=\"elementor-field elementor-size-sm  elementor-field-textual\" placeholder=\"Email\" required=\"required\">\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100\">\n\t\t\t\t\t\t\t\t\t\t\t\t<label for=\"form-field-message\" class=\"elementor-field-label\">\n\t\t\t\t\t\t\t\tMessage\t\t\t\t\t\t\t</label>\n\t\t\t\t\t\t<textarea class=\"elementor-field-textual elementor-field  elementor-size-sm\" name=\"form_fields[message]\" id=\"form-field-message\" rows=\"4\" placeholder=\"Message\"></textarea>\t\t\t\t</div>\n\t\t\t\t\t\t\t\t<div class=\"elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons\">\n\t\t\t\t\t<button class=\"elementor-button elementor-size-sm\" type=\"submit\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Send</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t</button>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</form>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-83d1644 e-flex e-con-boxed e-con e-parent\" data-id=\"83d1644\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-5bdcddf elementor-widget-divider--view-line elementor-widget elementor-widget-divider\" data-id=\"5bdcddf\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"divider.default\">\n\t\t\t\t\t\t\t<div class=\"elementor-divider\">\n\t\t\t<span class=\"elementor-divider-separator\">\n\t\t\t\t\t\t</span>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Contact Us Need help with your bike? Give us a call! or fill out the form below. Were always happy to help (303) 257-5044</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 118,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "class_list": [
+      "post-117",
+      "page",
+      "type-page",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/117",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=117"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 94,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/117/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 630,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/117/revisions/630"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/118"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media?parent=117"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 98,
+    "date": "2026-02-11T02:58:42",
+    "date_gmt": "2026-02-11T02:58:42",
+    "guid": {
+      "rendered": "https://todomotoboulder.com/?page_id=98"
+    },
+    "modified": "2026-04-24T15:11:54",
+    "modified_gmt": "2026-04-24T15:11:54",
+    "slug": "who-we-are",
+    "status": "publish",
+    "type": "page",
+    "link": "https://todomotoboulder.com/who-we-are/",
+    "title": {
+      "rendered": "Who We Are"
+    },
+    "content": {
+      "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"98\" class=\"elementor elementor-98\" data-elementor-post-type=\"page\">\n\t\t\t\t<div class=\"elementor-element elementor-element-2516868 e-flex e-con-boxed e-con e-parent\" data-id=\"2516868\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-313fe00 elementor-widget elementor-widget-heading\" data-id=\"313fe00\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">We Are Todo Moto</h2>\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-97d8719 e-flex e-con-boxed e-con e-parent\" data-id=\"97d8719\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-4050850 elementor-widget elementor-widget-text-editor\" data-id=\"4050850\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t\t\t\t\t\t<p>Todo Moto was built out of a simple idea:<br />Create a motorcycle shop where every rider feels welcome.</p><p>If it has two wheels, it belongs here.<br />Adventure bike, cruiser, chopper, dirt bike, pit bike, e-bike, or scooter — we work on it all. And if<br />it doesn’t ride yet, we’ll help get it there.</p><p>We’re riders and mechanics based in Boulder, and we treat every bike like it’s our own.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-01f6f6f e-grid e-con-full e-con e-parent\" data-id=\"01f6f6f\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t<div class=\"elementor-element elementor-element-ecc2e93 elementor-widget elementor-widget-image\" data-id=\"ecc2e93\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"800\" height=\"534\" src=\"https://todomotoboulder.com/wp-content/uploads/2026/02/20241028-DSC01047.jpg\" class=\"attachment-large size-large wp-image-223\" alt=\"\" srcset=\"https://todomotoboulder.com/wp-content/uploads/2026/02/20241028-DSC01047.jpg 1024w, https://todomotoboulder.com/wp-content/uploads/2026/02/20241028-DSC01047-300x200.jpg 300w, https://todomotoboulder.com/wp-content/uploads/2026/02/20241028-DSC01047-768x512.jpg 768w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-9bc0507 elementor-widget elementor-widget-text-editor\" data-id=\"9bc0507\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t\t\t\t\t\t<h1>Our Story</h1>\n<p>The name Todo Moto comes from one of our founders’ rides through South America.</p>\n<p>All over the continent, small independent shops with hand-painted signs reading “todo moto”</p>\n<p>popped up along the way. They weren’t flashy — just honest, local spots where you could find parts, get repairs, and talk bikes with people who cared. When something broke miles from anywhere, those shops kept the journey going.</p>\n<p>That spirit stuck with us.</p>\n<p>So we built our own version here in Boulder — a reliable place to turn for maintenance, repairs, and straight answers. No gatekeeping. No dealership vibes. Just good work and a welcoming shop.</p>\n<p>We’re Amber, Grant, and Spencer — three mechanics who love motorcycles and believe everyone deserves a place to ride in, ask questions, and feel at home.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-28e0ef7 e-flex e-con-boxed e-con e-parent\" data-id=\"28e0ef7\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-7bfbadc elementor-widget-divider--view-line elementor-widget elementor-widget-divider\" data-id=\"7bfbadc\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"divider.default\">\n\t\t\t\t\t\t\t<div class=\"elementor-divider\">\n\t\t\t<span class=\"elementor-divider-separator\">\n\t\t\t\t\t\t</span>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>We Are Todo Moto Todo Moto was built out of a simple idea:Create a motorcycle shop where every rider feels welcome. If it has two wheels, it belongs here.Adventure bike, cruiser, chopper, dirt bike, pit bike, e-bike, or scooter — we work on it all. And ifit doesn’t ride yet, we’ll help get it there. [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 48,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "class_list": [
+      "post-98",
+      "page",
+      "type-page",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/98",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=98"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 31,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/98/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 605,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/98/revisions/605"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/48"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media?parent=98"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 79,
+    "date": "2026-02-11T02:21:28",
+    "date_gmt": "2026-02-11T02:21:28",
+    "guid": {
+      "rendered": "https://todomotoboulder.com/?page_id=79"
+    },
+    "modified": "2026-04-24T15:10:25",
+    "modified_gmt": "2026-04-24T15:10:25",
+    "slug": "services",
+    "status": "publish",
+    "type": "page",
+    "link": "https://todomotoboulder.com/services/",
+    "title": {
+      "rendered": "Services"
+    },
+    "content": {
+      "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"79\" class=\"elementor elementor-79\" data-elementor-post-type=\"page\">\n\t\t\t\t<div class=\"elementor-element elementor-element-e184222 e-flex e-con-boxed e-con e-parent\" data-id=\"e184222\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-79e18a4 elementor-widget elementor-widget-heading\" data-id=\"79e18a4\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t\t<h1 class=\"elementor-heading-title elementor-size-default\">Services</h1>\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-a83b46d elementor-widget-divider--view-line elementor-widget elementor-widget-divider\" data-id=\"a83b46d\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"divider.default\">\n\t\t\t\t\t\t\t<div class=\"elementor-divider\">\n\t\t\t<span class=\"elementor-divider-separator\">\n\t\t\t\t\t\t</span>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-3f403b1 e-grid e-con-boxed e-con e-parent\" data-id=\"3f403b1\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-234ee87 elementor-widget elementor-widget-image\" data-id=\"234ee87\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img loading=\"lazy\" decoding=\"async\" width=\"683\" height=\"1024\" src=\"https://todomotoboulder.com/wp-content/uploads/2026/02/20260120-DSC07050.jpg\" class=\"attachment-large size-large wp-image-50\" alt=\"\" srcset=\"https://todomotoboulder.com/wp-content/uploads/2026/02/20260120-DSC07050.jpg 683w, https://todomotoboulder.com/wp-content/uploads/2026/02/20260120-DSC07050-200x300.jpg 200w\" sizes=\"(max-width: 683px) 100vw, 683px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-861b84f elementor-widget elementor-widget-text-editor\" data-id=\"861b84f\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t\t\t\t\t\t<p>We’re riders and mechanics based in Boulder.</p><p>From routine maintenance to full rebuilds, we work on just about anything with two wheels — treating every bike like it’s our own.</p><p>Maintenance • Repairs • Diagnostics • Tires • Inspections • Custom work</p><p><b>Call to schedule service (303) 257-5044</b></p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-734a55f e-flex e-con-boxed e-con e-parent\" data-id=\"734a55f\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-6bf32f2 elementor-widget-divider--view-line elementor-widget elementor-widget-divider\" data-id=\"6bf32f2\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"divider.default\">\n\t\t\t\t\t\t\t<div class=\"elementor-divider\">\n\t\t\t<span class=\"elementor-divider-separator\">\n\t\t\t\t\t\t</span>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div class=\"elementor-element elementor-element-4b2110f e-grid e-con-boxed e-con e-parent\" data-id=\"4b2110f\" data-element_type=\"container\" data-e-type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-8ef1f80 elementor-widget elementor-widget-button\" data-id=\"8ef1f80\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-diagnosis/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Diagnosis</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-e48d718 elementor-widget elementor-widget-button\" data-id=\"e48d718\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-inspection/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Inspection</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-6751b37 elementor-widget elementor-widget-button\" data-id=\"6751b37\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-oil-change/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Oil Change</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-f5ac702 elementor-widget elementor-widget-button\" data-id=\"f5ac702\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-repair/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Repair</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-966a9a6 elementor-widget elementor-widget-button\" data-id=\"966a9a6\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/motorcycle-tire-change/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Tire Change</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-dd37a92 elementor-widget elementor-widget-button\" data-id=\"dd37a92\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/scooter-and-vespa-service/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Scooter and Vespa</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-f1807ca elementor-widget elementor-widget-button\" data-id=\"f1807ca\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t\t\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://todomotoboulder.com/services/e-bike/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">E-Bikes</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Services We’re riders and mechanics based in Boulder. From routine maintenance to full rebuilds, we work on just about anything with two wheels — treating every bike like it’s our own. Maintenance • Repairs • Diagnostics • Tires • Inspections • Custom work Call to schedule service (303) 257-5044 Diagnosis Inspection Oil Change Repair Tire [&hellip;]</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 50,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "footnotes": ""
+    },
+    "class_list": [
+      "post-79",
+      "page",
+      "type-page",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/79",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=79"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 70,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/79/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 596,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/79/revisions/596"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/50"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media?parent=79"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

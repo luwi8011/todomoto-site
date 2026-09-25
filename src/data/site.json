@@ -1,0 +1,39 @@
+{
+  "name": "Todo Moto",
+  "tagline": "Boulder’s Independent Motorcycle Shop",
+  "url": "https://todomotoboulder.com",
+  "phone": "(303) 257-5044",
+  "phoneE164": "+13032575044",
+  "email": "shop@todomotoboulder.com",
+  "contactFormRecipient": "shop@todomotoboulder.com",
+  "laborRate": { "amount": 175, "currency": "USD", "unit": "hour" },
+  "address": {
+    "street": "5589 Arapahoe Ave, Unit 108",
+    "city": "Boulder",
+    "region": "CO",
+    "postalCode": "80303",
+    "country": "US"
+  },
+  "hours": [
+    { "days": ["Tu", "We", "Th", "Fr"], "opens": "10:30", "closes": "17:30" },
+    { "days": ["Sa"], "opens": "10:30", "closes": "17:00" }
+  ],
+  "closedDays": ["Su", "Mo"],
+  "social": {
+    "instagram": "https://www.instagram.com/todomoto.boulder/"
+  },
+  "analytics": {
+    "ga4": "G-SM1JKRPZ09",
+    "plausible": {
+      "domain": "todomotoboulder.com",
+      "src": "https://plausible.wilsonfabrication.com/js/script.file-downloads.hash.outbound-links.pageview-props.revenue.tagged-events.js"
+    }
+  },
+  "team": ["Amber", "Grant", "Spencer"],
+  "partners": [
+    { "name": "Viking Bags", "url": "https://www.vikingbags.com/", "logo": "partners/viking-bags.avif" },
+    { "name": "Rider Justice", "url": "https://riderjustice.com/", "logo": "partners/rider-justice.jpg", "logoOnDark": "partners/rider-justice-white.webp" },
+    { "name": "Roost Concepts", "url": "https://www.roost-concepts.com/", "logo": "partners/roost-concepts-black.png", "logoOnDark": "partners/roost-concepts-white.avif" },
+    { "name": "Wilson Fabrication", "url": "https://wilsonfab.com/", "logo": "partners/wilson-fabrication.png" }
+  ]
+}

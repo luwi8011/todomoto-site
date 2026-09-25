@@ -1,0 +1,6 @@
+# Old WordPress URLs with no equivalent page. Every real page keeps its URL.
+/author/*                      /                    301
+/wp-sitemap.xml                /sitemap-index.xml   301
+/wp-sitemap-posts-page-1.xml   /sitemap-index.xml   301
+/wp-sitemap-users-1.xml        /sitemap-index.xml   301
+/feed/                         /                    301

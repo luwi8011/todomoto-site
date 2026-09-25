@@ -1,0 +1,27 @@
+---
+import { Image } from 'astro:assets';
+import Button from './Button.astro';
+import { site, telHref } from '../lib/site';
+import supermoto from '../assets/images/photos/supermoto-cornering.jpg';
+
+interface Props {
+  title?: string;
+  text?: string;
+}
+const {
+  title = 'Bike not running right?',
+  text = 'Give us a call. We work on just about anything with two wheels.',
+} = Astro.props;
+---
+
+<section class="mx-auto max-w-6xl px-4">
+  <div class="relative isolate grid gap-6 overflow-hidden rounded-xl p-8 sm:p-12 lg:grid-cols-[1fr_auto] lg:items-center">
+    <Image src={supermoto} alt="" widths={[800, 1400]} sizes="(min-width: 1152px) 1152px, 100vw" class="absolute inset-0 -z-10 size-full object-cover opacity-30" />
+    <div class="absolute inset-0 -z-20 bg-brand"></div>
+    <div>
+      <h2 class="font-display text-4xl">{title}</h2>
+      <p class="mt-2 text-lg">{text}</p>
+    </div>
+    <Button href={telHref} variant="secondary" size="lg">Call {site.phone}</Button>
+  </div>
+</section>

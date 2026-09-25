@@ -1,0 +1,75 @@
+---
+import { Image } from 'astro:assets';
+import { getCollection, getEntry, render } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import Hero from '../components/Hero.astro';
+import Button from '../components/Button.astro';
+import Hours from '../components/Hours.astro';
+import ServiceCard from '../components/ServiceCard.astro';
+import PartnerGrid from '../components/PartnerGrid.astro';
+import CtaBand from '../components/CtaBand.astro';
+import { site, telHref, mailHref, directionsHref, laborRateLabel } from '../lib/site';
+import adventure from '../assets/images/photos/adventure-bike-snow.jpg';
+
+const home = await getEntry('pages', 'home');
+if (!home) throw new Error('src/content/pages/home.md is missing');
+const { Content } = await render(home);
+const services = (await getCollection('services')).sort((a, b) => a.data.order - b.data.order);
+---
+
+<Base description={home.data.description}>
+  <Hero heading={home.data.heading ?? site.tagline} />
+
+  <section aria-label="Shop info" class="relative z-10 mx-auto -mt-8 grid max-w-6xl gap-4 px-4 sm:grid-cols-3">
+    <div class="rounded-lg border border-line bg-surface p-5">
+      <h2 class="font-bold">Hours</h2>
+      <Hours class="mt-3" />
+    </div>
+    <div class="rounded-lg border border-line bg-surface p-5">
+      <h2 class="font-bold">Find us</h2>
+      <address class="mt-3 not-italic">
+        {site.address.street}<br />
+        {site.address.city}, {site.address.region} {site.address.postalCode}
+      </address>
+      <a href={directionsHref} class="mt-2 inline-block text-flame underline">Get directions</a>
+    </div>
+    <div class="rounded-lg border border-line bg-surface p-5">
+      <h2 class="font-bold">Get in touch</h2>
+      <p class="mt-3"><a href={telHref} class="text-flame underline">{site.phone}</a></p>
+      <p class="mt-1 break-words"><a href={mailHref} class="hover:text-flame">{site.email}</a></p>
+      <p class="mt-2 text-muted">Labor rate {laborRateLabel}</p>
+    </div>
+  </section>
+
+  <section aria-labelledby="home-services" class="mx-auto mt-24 max-w-6xl px-4">
+    <div class="flex flex-wrap items-end justify-between gap-4">
+      <h2 id="home-services" class="font-display text-4xl text-flame sm:text-5xl">What we do</h2>
+      <Button href="/services/" variant="ghost">All services →</Button>
+    </div>
+    <ul class="mt-8 grid grid-cols-2 gap-3 sm:gap-5 lg:grid-cols-4">
+      {services.map((s) => <li><ServiceCard service={s} compact /></li>)}
+    </ul>
+  </section>
+
+  <section aria-labelledby="home-about" class="mx-auto mt-24 grid max-w-6xl items-center gap-10 px-4 lg:grid-cols-2">
+    <Image
+      src={adventure}
+      alt="Adventure motorcycle with auxiliary lights parked in the snow"
+      widths={[480, 800, 1200]}
+      sizes="(min-width: 1024px) 50vw, 100vw"
+      class="aspect-[3/2] w-full rounded-lg object-cover"
+    />
+    <div>
+      <h2 id="home-about" class="font-display text-4xl text-flame sm:text-5xl">If it has two wheels, it belongs here</h2>
+      <div class="prose-shop mt-6"><Content /></div>
+      <Button href="/who-we-are/" variant="secondary" class="mt-8">Our story</Button>
+    </div>
+  </section>
+
+  <section aria-labelledby="home-partners" class="mx-auto mt-24 max-w-6xl px-4">
+    <h2 id="home-partners" class="font-display text-4xl text-flame sm:text-5xl">Thanks to our awesome partners</h2>
+    <div class="mt-8"><PartnerGrid /></div>
+  </section>
+
+  <div class="mt-24"><CtaBand /></div>
+</Base>

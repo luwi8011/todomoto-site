@@ -1,0 +1,55 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { getCollection, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import PageHeader from '../../components/PageHeader.astro';
+import Button from '../../components/Button.astro';
+import Hours from '../../components/Hours.astro';
+import ServiceCard from '../../components/ServiceCard.astro';
+import { site, telHref, laborRateLabel } from '../../lib/site';
+
+export async function getStaticPaths() {
+  const services = (await getCollection('services')).sort((a, b) => a.data.order - b.data.order);
+  return services.map((service) => ({
+    params: { slug: service.id },
+    props: { service, others: services.filter((s) => s.id !== service.id) },
+  }));
+}
+
+interface Props {
+  service: CollectionEntry<'services'>;
+  others: CollectionEntry<'services'>[];
+}
+
+const { service, others } = Astro.props;
+const { title, heading, description, image, imageAlt } = service.data;
+const { Content } = await render(service);
+---
+
+<Base title={title} description={description} image={image}>
+  <PageHeader title={heading} image={image} imageAlt={imageAlt}>
+    <a slot="eyebrow" href="/services/" class="hover:text-flame">← All services</a>
+  </PageHeader>
+
+  <div class="mx-auto mt-12 grid max-w-6xl gap-10 px-4 lg:grid-cols-[1fr_20rem]">
+    <div class="prose-shop"><Content /></div>
+
+    <aside class="h-fit rounded-lg border border-line bg-surface p-6 lg:sticky lg:top-28">
+      <p class="text-muted">Shop labor rate</p>
+      <p class="text-3xl font-bold text-flame">{laborRateLabel}</p>
+      <div class="mt-5 grid gap-3">
+        <Button href={telHref}>Call {site.phone}</Button>
+        <Button href="/contact-us/" variant="secondary">Send us a message</Button>
+      </div>
+      <h2 class="mt-6 font-bold">Hours</h2>
+      <Hours class="mt-2 text-sm" />
+    </aside>
+  </div>
+
+  <section aria-labelledby="other-services" class="mx-auto mt-24 max-w-6xl px-4">
+    <h2 id="other-services" class="font-display text-3xl text-flame sm:text-4xl">Other services</h2>
+    <ul class="mt-6 grid grid-cols-2 gap-3 sm:gap-5 lg:grid-cols-4">
+      {others.map((s) => <li><ServiceCard service={s} compact /></li>)}
+    </ul>
+  </section>
+</Base>

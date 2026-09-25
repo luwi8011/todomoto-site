@@ -1,0 +1,147 @@
+---
+// Internal design reference for approval. Not linked from the site, not indexed,
+// excluded from the sitemap, and loads no analytics.
+import { Image } from 'astro:assets';
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import Button from '../components/Button.astro';
+import Hours from '../components/Hours.astro';
+import ServiceCard from '../components/ServiceCard.astro';
+import Hero from '../components/Hero.astro';
+import PartnerGrid from '../components/PartnerGrid.astro';
+import CtaBand from '../components/CtaBand.astro';
+import { site, telHref, laborRateLabel } from '../lib/site';
+
+import mechanic from '../assets/images/photos/mechanic-in-shop.jpg';
+import wordmarkCream from '../assets/images/brand/logo-wordmark-cream.png';
+import wordmarkRed from '../assets/images/brand/logo-wordmark-red.png';
+import markCream from '../assets/images/brand/logo-mark-cream.png';
+import markRed from '../assets/images/brand/logo-mark-red.png';
+
+const services = (await getCollection('services')).sort((a, b) => a.data.order - b.data.order);
+
+const colors = [
+  { name: 'ink', hex: '#1a1817', use: 'Footer, deepest background' },
+  { name: 'charcoal', hex: '#242222', use: 'Page background (from current site)' },
+  { name: 'surface', hex: '#2f2c2a', use: 'Cards, panels' },
+  { name: 'line', hex: '#45403c', use: 'Borders, dividers' },
+  { name: 'cream', hex: '#f1eadf', use: 'Body text, logo on dark' },
+  { name: 'muted', hex: '#b9b1a6', use: 'Secondary text' },
+  { name: 'brand', hex: '#871518', use: 'Buttons (logo red, from current site)' },
+  { name: 'flame', hex: '#ec8a6a', use: 'Links, accents, hand-lettered headings' },
+  { name: 'tan', hex: '#a27d60', use: 'Rare accent (from current site)' },
+];
+---
+
+<Base title="Style guide" noindex>
+  <Hero heading="Boulder's independent motorcycle shop" />
+
+  <div class="mx-auto max-w-6xl space-y-24 px-4 py-16">
+    <header class="rounded-lg border border-dashed border-flame/60 p-5 text-muted">
+      <p class="font-bold text-cream">Style guide for approval</p>
+      <p class="mt-1">Colors, type, and components for the new site. Everything above is a hero as it would look on the home page. This page is not linked from the site and won't appear in search.</p>
+    </header>
+
+    <section aria-labelledby="sg-colors">
+      <h2 id="sg-colors" class="font-display text-4xl text-flame">Colors</h2>
+      <ul class="mt-6 grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-5">
+        {
+          colors.map((c) => (
+            <li class="overflow-hidden rounded-lg border border-line">
+              <div class="h-20" style={`background:${c.hex}`} />
+              <div class="p-3 text-sm">
+                <p class="font-bold">{c.name}</p>
+                <p class="font-mono text-muted">{c.hex}</p>
+                <p class="mt-1 text-muted">{c.use}</p>
+              </div>
+            </li>
+          ))
+        }
+      </ul>
+    </section>
+
+    <section aria-labelledby="sg-type" class="space-y-6">
+      <h2 id="sg-type" class="font-display text-4xl text-flame">Type</h2>
+      <div class="grid gap-8 lg:grid-cols-2">
+        <div>
+          <p class="text-sm text-muted">Display: Permanent Marker. Headlines only, never body text.</p>
+          <p class="mt-2 font-display text-6xl text-flame">Todo Moto</p>
+          <p class="mt-2 font-display text-3xl">If it has two wheels, it belongs here.</p>
+        </div>
+        <div>
+          <p class="text-sm text-muted">Text: Roboto Slab, 400 to 700. Left-aligned, 68 characters per line max.</p>
+          <p class="mt-2 text-3xl font-bold">Motorcycle Tire Change</p>
+          <p class="mt-2 text-xl">Service you can trust. From people who ride.</p>
+          <p class="mt-2 text-muted">Secondary text, captions, and labels use the muted color.</p>
+        </div>
+      </div>
+      <div class="prose-shop rounded-lg border border-line bg-surface p-6">
+        <h2>Our Story</h2>
+        <p>The name Todo Moto comes from one of our founders' rides through South America. All over the continent, small independent shops with hand-painted signs reading “todo moto” popped up along the way.</p>
+        <p>They weren't flashy — just honest, local spots where you could find parts, get repairs, and <a href="/who-we-are/">talk bikes with people who cared</a>.</p>
+      </div>
+    </section>
+
+    <section aria-labelledby="sg-buttons" class="space-y-6">
+      <h2 id="sg-buttons" class="font-display text-4xl text-flame">Buttons & links</h2>
+      <div class="flex flex-wrap items-center gap-4">
+        <Button href={telHref}>Call {site.phone}</Button>
+        <Button href="/contact-us/" variant="secondary">Book service</Button>
+        <Button href="/services/" variant="ghost">All services →</Button>
+      </div>
+      <div class="flex flex-wrap items-center gap-4">
+        <Button href={telHref} size="lg">Large primary</Button>
+        <Button href="/contact-us/" variant="secondary" size="lg">Large secondary</Button>
+      </div>
+    </section>
+
+    <section aria-labelledby="sg-services">
+      <div class="flex flex-wrap items-end justify-between gap-4">
+        <h2 id="sg-services" class="font-display text-4xl text-flame">Service cards</h2>
+        <p class="rounded-md bg-surface px-4 py-2">Shop labor rate: <strong class="text-flame">{laborRateLabel}</strong></p>
+      </div>
+      <p class="mt-2 text-muted">Photos marked “stand-in” are placeholders until real shop photos arrive. Cards with no photo show the logo mark.</p>
+      <ul class="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+        {services.map((s) => <li><ServiceCard service={s} showPlaceholderBadge /></li>)}
+      </ul>
+    </section>
+
+    <section aria-labelledby="sg-panels" class="grid gap-6 lg:grid-cols-2">
+      <h2 id="sg-panels" class="sr-only">Info panels</h2>
+      <div class="rounded-lg border border-line bg-surface p-6">
+        <h3 class="text-xl font-bold">Hours</h3>
+        <Hours class="mt-4 text-lg" />
+      </div>
+      <div class="rounded-lg border border-line bg-surface p-6">
+        <h3 class="text-xl font-bold">Photo with caption</h3>
+        <figure class="mt-4">
+          <Image src={mechanic} alt="Mechanic working on a motorcycle in the Todo Moto shop" widths={[480, 800]} sizes="(min-width: 1024px) 40vw, 100vw" class="aspect-[3/2] w-full rounded-md object-cover" />
+          <figcaption class="mt-2 text-sm text-muted">Real photos on top-level pages; service pages get theirs later.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section aria-labelledby="sg-logos" class="space-y-6">
+      <h2 id="sg-logos" class="font-display text-4xl text-flame">Logo</h2>
+      <p class="text-muted">The black logo from the current site is nearly invisible on a dark background, so the new site uses a cream version (generated from the black PNG) or the red one.</p>
+      <div class="grid grid-cols-2 gap-4 sm:grid-cols-4">
+        {
+          [wordmarkCream, markCream, wordmarkRed, markRed].map((src) => (
+            <div class="grid h-40 place-items-center rounded-lg border border-line bg-ink p-4">
+              <Image src={src} alt="Todo Moto logo" height={120} class="max-h-full w-auto" />
+            </div>
+          ))
+        }
+      </div>
+    </section>
+
+    <section aria-labelledby="sg-partners" class="space-y-6">
+      <h2 id="sg-partners" class="font-display text-4xl text-flame">Partners</h2>
+      <p class="text-muted">Every logo sits on the same cream tile so mixed white and transparent originals look consistent.</p>
+      <PartnerGrid />
+    </section>
+
+  </div>
+
+  <CtaBand />
+</Base>

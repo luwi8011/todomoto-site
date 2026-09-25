@@ -1,0 +1,23 @@
+{
+  "name": "Todo Moto",
+  "description": "Boulder’s Independent Motorcycle Shop",
+  "url": "https://todomotoboulder.com",
+  "namespaces": [
+    "oembed/1.0",
+    "litespeed/v1",
+    "litespeed/v3",
+    "wp-dark-mode",
+    "elementor-one/v1",
+    "duplicate-post/v1",
+    "elementor/v1",
+    "elementor-pro/v1",
+    "elementor-hello-elementor/v1",
+    "elementor/v1/documents",
+    "elementor-ai/v1",
+    "elementor/v1/feedback",
+    "wp/v2",
+    "wp-site-health/v1",
+    "wp-block-editor/v1",
+    "wp-abilities/v1"
+  ]
+}

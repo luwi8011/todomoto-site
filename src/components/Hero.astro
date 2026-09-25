@@ -1,0 +1,34 @@
+---
+import { Image } from 'astro:assets';
+import Button from './Button.astro';
+import { site, telHref, addressLine } from '../lib/site';
+import hero from '../assets/images/photos/rider-night-bw.jpg';
+
+interface Props {
+  heading: string;
+}
+const { heading } = Astro.props;
+---
+
+<section class="relative isolate overflow-hidden">
+  <Image
+    src={hero}
+    alt="Rider on a motorcycle at night, in black and white"
+    widths={[640, 1024, 1600, 2400]}
+    sizes="100vw"
+    loading="eager"
+    fetchpriority="high"
+    class="absolute inset-0 -z-10 size-full object-cover opacity-55"
+  />
+  <div class="absolute inset-0 -z-10 bg-gradient-to-t from-charcoal via-charcoal/40 to-transparent"></div>
+  <div class="mx-auto max-w-6xl px-4 pt-28 pb-20 sm:pt-40 sm:pb-28">
+    <p class="text-lg text-muted">Welcome to {site.name}</p>
+    <h1 class="mt-2 max-w-3xl font-display text-5xl leading-[1.05] text-flame sm:text-7xl">{heading}</h1>
+    <p class="mt-6 max-w-xl text-xl sm:text-2xl">Service you can trust. From people who ride.</p>
+    <div class="mt-8 flex flex-wrap gap-3">
+      <Button href={telHref} size="lg">Call {site.phone}</Button>
+      <Button href="/contact-us/" variant="secondary" size="lg">Book service online</Button>
+    </div>
+    <p class="mt-6 text-muted">{addressLine}</p>
+  </div>
+</section>

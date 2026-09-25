@@ -1,0 +1,32 @@
+---
+import { getCollection, getEntry, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import PageHeader from '../../components/PageHeader.astro';
+import Button from '../../components/Button.astro';
+import ServiceCard from '../../components/ServiceCard.astro';
+import CtaBand from '../../components/CtaBand.astro';
+import { site, telHref, laborRateLabel } from '../../lib/site';
+
+const page = await getEntry('pages', 'services');
+if (!page) throw new Error('src/content/pages/services.md is missing');
+const { Content } = await render(page);
+const services = (await getCollection('services')).sort((a, b) => a.data.order - b.data.order);
+---
+
+<Base title={page.data.title} description={page.data.description} image={page.data.image}>
+  <PageHeader title={page.data.heading ?? page.data.title} image={page.data.image} imageAlt={page.data.imageAlt}>
+    <div class="prose-shop"><Content /></div>
+    <div class="mt-6 flex flex-wrap items-center gap-4">
+      <Button href={telHref}>Call to schedule: {site.phone}</Button>
+      <span class="rounded-md bg-surface px-4 py-2">Labor rate <strong class="text-flame">{laborRateLabel}</strong></span>
+    </div>
+  </PageHeader>
+
+  <section aria-label="All services" class="mx-auto mt-16 max-w-6xl px-4">
+    <ul class="grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+      {services.map((s) => <li><ServiceCard service={s} /></li>)}
+    </ul>
+  </section>
+
+  <div class="mt-24"><CtaBand /></div>
+</Base>

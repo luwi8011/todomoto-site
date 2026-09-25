@@ -1,0 +1,4 @@
+# Cloudflare Pages project. Static files come from Astro's dist/; functions/ adds /api/contact.
+name = "todomoto-site"
+pages_build_output_dir = "./dist"
+compatibility_date = "2026-09-01"

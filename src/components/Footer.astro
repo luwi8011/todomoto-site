@@ -1,0 +1,35 @@
+---
+import Hours from './Hours.astro';
+import { site, telHref, mailHref, addressLine, directionsHref } from '../lib/site';
+
+const year = new Date().getFullYear();
+---
+
+<footer class="mt-24 border-t border-line bg-ink">
+  <div class="mx-auto grid max-w-6xl gap-10 px-4 py-12 sm:grid-cols-2 lg:grid-cols-3">
+    <div>
+      <p class="font-display text-2xl text-flame">{site.name}</p>
+      <p class="mt-1 text-muted">{site.tagline}</p>
+      <address class="mt-4 not-italic leading-relaxed">
+        {site.address.street}<br />
+        {site.address.city}, {site.address.region} {site.address.postalCode}
+      </address>
+      <a href={directionsHref} class="mt-2 inline-block text-flame underline" aria-label={`Get directions to ${addressLine}`}>Get directions</a>
+    </div>
+
+    <div>
+      <h2 class="font-bold">Hours</h2>
+      <Hours class="mt-3" />
+    </div>
+
+    <div>
+      <h2 class="font-bold">Get in touch</h2>
+      <ul class="mt-3 space-y-1.5">
+        <li><a href={telHref} class="hover:text-flame">{site.phone}</a></li>
+        <li><a href={mailHref} class="hover:text-flame">{site.email}</a></li>
+        <li><a href={site.social.instagram} class="hover:text-flame" rel="me">Instagram</a></li>
+      </ul>
+    </div>
+  </div>
+  <p class="border-t border-line py-5 text-center text-sm text-muted">© {year} {site.name}, Boulder, Colorado</p>
+</footer>

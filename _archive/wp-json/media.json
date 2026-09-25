@@ -1,0 +1,3321 @@
+[
+  {
+    "id": 609,
+    "date": "2026-04-25T00:13:11",
+    "date_gmt": "2026-04-25T00:13:11",
+    "guid": {
+      "rendered": "https://todomotoboulder.com/wp-content/uploads/2026/04/TodoMoto03-06.png"
+    },
+    "modified": "2026-04-25T00:13:11",
+    "modified_gmt": "2026-04-25T00:13:11",
+    "slug": "todomoto03-06",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://todomotoboulder.com/todomoto03-06/",
+    "title": {
+      "rendered": "TodoMoto03-06"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "class_list": [
+      "post-609",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry"
+    ],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://todomotoboulder.com/wp-content/uploads/2026/04/TodoMoto03-06-scaled.png'><img fetchpriority=\"high\" decoding=\"async\" width=\"300\" height=\"222\" src=\"https://todomotoboulder.com/wp-content/uploads/2026/04/TodoMoto03-06-300x222.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://todomotoboulder.com/wp-content/uploads/2026/04/TodoMoto03-06-300x222.png 300w, https://todomotoboulder.com/wp-content/uploads/2026/04/TodoMoto03-06-1024x758.png 1024w, https://todomotoboulder.com/wp-content/uploads/2026/04/TodoMoto03-06-768x569.png 768w, https://todomotoboulder.com/wp-content/uploads/2026/04/TodoMoto03-06-1536x1138.png 1536w, https://todomotoboulder.com/wp-content/uploads/2026/04/TodoMoto03-06-2048x1517.png 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    },
+    "caption": {
+      "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 2560,
+      "height": 1896,
+      "file": "2026/04/TodoMoto03-06-scaled.png",
+      "filesize": 173663,
+      "sizes": {
+        "medium": {
+          "file": "TodoMoto03-06-300x222.png",
+          "width": 300,
+          "height": 222,
+          "filesize": 13530,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/04/TodoMoto03-06-300x222.png"
+        },
+        "large": {
+          "file": "TodoMoto03-06-1024x758.png",
+          "width": 1024,
+          "height": 758,
+          "filesize": 60793,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/04/TodoMoto03-06-1024x758.png"
+        },
+        "thumbnail": {
+          "file": "TodoMoto03-06-150x150.png",
+          "width": 150,
+          "height": 150,
+          "filesize": 7846,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/04/TodoMoto03-06-150x150.png"
+        },
+        "medium_large": {
+          "file": "TodoMoto03-06-768x569.png",
+          "width": 768,
+          "height": 569,
+          "filesize": 42490,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/04/TodoMoto03-06-768x569.png"
+        },
+        "1536x1536": {
+          "file": "TodoMoto03-06-1536x1138.png",
+          "width": 1536,
+          "height": 1138,
+          "filesize": 96514,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/04/TodoMoto03-06-1536x1138.png"
+        },
+        "2048x2048": {
+          "file": "TodoMoto03-06-2048x1517.png",
+          "width": 2048,
+          "height": 1517,
+          "filesize": 134383,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/04/TodoMoto03-06-2048x1517.png"
+        },
+        "full": {
+          "file": "TodoMoto03-06-scaled.png",
+          "width": 2560,
+          "height": 1896,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/04/TodoMoto03-06-scaled.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      },
+      "original_image": "TodoMoto03-06.png"
+    },
+    "post": null,
+    "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/04/TodoMoto03-06-scaled.png",
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/609",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=609"
+        }
+      ]
+    }
+  },
+  {
+    "id": 558,
+    "date": "2026-04-23T01:45:53",
+    "date_gmt": "2026-04-23T01:45:53",
+    "guid": {
+      "rendered": "https://todomotoboulder.com/wp-content/uploads/2026/04/LOGO-copy-solo-PhotoRoom.png"
+    },
+    "modified": "2026-04-23T01:45:53",
+    "modified_gmt": "2026-04-23T01:45:53",
+    "slug": "logo-copy-solo-photoroom",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://todomotoboulder.com/logo-copy-solo-photoroom/",
+    "title": {
+      "rendered": "LOGO-copy-solo-PhotoRoom"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "class_list": [
+      "post-558",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry"
+    ],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://todomotoboulder.com/wp-content/uploads/2026/04/LOGO-copy-solo-PhotoRoom.png'><img decoding=\"async\" width=\"300\" height=\"300\" src=\"https://todomotoboulder.com/wp-content/uploads/2026/04/LOGO-copy-solo-PhotoRoom-300x300.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://todomotoboulder.com/wp-content/uploads/2026/04/LOGO-copy-solo-PhotoRoom-300x300.png 300w, https://todomotoboulder.com/wp-content/uploads/2026/04/LOGO-copy-solo-PhotoRoom-150x150.png 150w, https://todomotoboulder.com/wp-content/uploads/2026/04/LOGO-copy-solo-PhotoRoom.png 610w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    },
+    "caption": {
+      "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 610,
+      "height": 609,
+      "file": "2026/04/LOGO-copy-solo-PhotoRoom.png",
+      "filesize": 81705,
+      "sizes": {
+        "medium": {
+          "file": "LOGO-copy-solo-PhotoRoom-300x300.png",
+          "width": 300,
+          "height": 300,
+          "filesize": 45342,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/04/LOGO-copy-solo-PhotoRoom-300x300.png"
+        },
+        "thumbnail": {
+          "file": "LOGO-copy-solo-PhotoRoom-150x150.png",
+          "width": 150,
+          "height": 150,
+          "filesize": 16420,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/04/LOGO-copy-solo-PhotoRoom-150x150.png"
+        },
+        "full": {
+          "file": "LOGO-copy-solo-PhotoRoom.png",
+          "width": 610,
+          "height": 609,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/04/LOGO-copy-solo-PhotoRoom.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/04/LOGO-copy-solo-PhotoRoom.png",
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/558",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=558"
+        }
+      ]
+    }
+  },
+  {
+    "id": 554,
+    "date": "2026-04-23T01:40:19",
+    "date_gmt": "2026-04-23T01:40:19",
+    "guid": {
+      "rendered": "https://todomotoboulder.com/wp-content/uploads/2026/04/Roost-Concepts-Logo-black-2C-Tight.png"
+    },
+    "modified": "2026-04-23T01:40:19",
+    "modified_gmt": "2026-04-23T01:40:19",
+    "slug": "roost-concepts-logo-black-2c-tight",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://todomotoboulder.com/roost-concepts-logo-black-2c-tight/",
+    "title": {
+      "rendered": "Roost-Concepts-Logo-black-2C-Tight"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "class_list": [
+      "post-554",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry"
+    ],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://todomotoboulder.com/wp-content/uploads/2026/04/Roost-Concepts-Logo-black-2C-Tight.png'><img decoding=\"async\" width=\"300\" height=\"50\" src=\"https://todomotoboulder.com/wp-content/uploads/2026/04/Roost-Concepts-Logo-black-2C-Tight-300x50.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://todomotoboulder.com/wp-content/uploads/2026/04/Roost-Concepts-Logo-black-2C-Tight-300x50.png 300w, https://todomotoboulder.com/wp-content/uploads/2026/04/Roost-Concepts-Logo-black-2C-Tight.png 400w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    },
+    "caption": {
+      "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 400,
+      "height": 67,
+      "file": "2026/04/Roost-Concepts-Logo-black-2C-Tight.png",
+      "filesize": 21202,
+      "sizes": {
+        "medium": {
+          "file": "Roost-Concepts-Logo-black-2C-Tight-300x50.png",
+          "width": 300,
+          "height": 50,
+          "filesize": 15264,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/04/Roost-Concepts-Logo-black-2C-Tight-300x50.png"
+        },
+        "thumbnail": {
+          "file": "Roost-Concepts-Logo-black-2C-Tight-150x67.png",
+          "width": 150,
+          "height": 67,
+          "filesize": 8519,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/04/Roost-Concepts-Logo-black-2C-Tight-150x67.png"
+        },
+        "full": {
+          "file": "Roost-Concepts-Logo-black-2C-Tight.png",
+          "width": 400,
+          "height": 67,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/04/Roost-Concepts-Logo-black-2C-Tight.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/04/Roost-Concepts-Logo-black-2C-Tight.png",
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/554",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=554"
+        }
+      ]
+    }
+  },
+  {
+    "id": 552,
+    "date": "2026-04-23T01:31:10",
+    "date_gmt": "2026-04-23T01:31:10",
+    "guid": {
+      "rendered": "https://todomotoboulder.com/wp-content/uploads/2026/04/Roost-Concepts-Logo-White-2C-Tight.avif"
+    },
+    "modified": "2026-04-23T01:31:10",
+    "modified_gmt": "2026-04-23T01:31:10",
+    "slug": "roost-concepts-logo-white-2c-tight",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://todomotoboulder.com/roost-concepts-logo-white-2c-tight/",
+    "title": {
+      "rendered": "Roost-Concepts-Logo-White-2C-Tight"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "class_list": [
+      "post-552",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry"
+    ],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://todomotoboulder.com/wp-content/uploads/2026/04/Roost-Concepts-Logo-White-2C-Tight.avif'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"50\" src=\"https://todomotoboulder.com/wp-content/uploads/2026/04/Roost-Concepts-Logo-White-2C-Tight-300x50.avif\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://todomotoboulder.com/wp-content/uploads/2026/04/Roost-Concepts-Logo-White-2C-Tight-300x50.avif 300w, https://todomotoboulder.com/wp-content/uploads/2026/04/Roost-Concepts-Logo-White-2C-Tight.avif 400w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    },
+    "caption": {
+      "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/avif",
+    "media_details": {
+      "width": 400,
+      "height": 67,
+      "file": "2026/04/Roost-Concepts-Logo-White-2C-Tight.avif",
+      "filesize": 5592,
+      "sizes": {
+        "medium": {
+          "file": "Roost-Concepts-Logo-White-2C-Tight-300x50.avif",
+          "width": 300,
+          "height": 50,
+          "filesize": 5235,
+          "mime_type": "image/avif",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/04/Roost-Concepts-Logo-White-2C-Tight-300x50.avif"
+        },
+        "thumbnail": {
+          "file": "Roost-Concepts-Logo-White-2C-Tight-150x67.avif",
+          "width": 150,
+          "height": 67,
+          "filesize": 8270,
+          "mime_type": "image/avif",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/04/Roost-Concepts-Logo-White-2C-Tight-150x67.avif"
+        },
+        "full": {
+          "file": "Roost-Concepts-Logo-White-2C-Tight.avif",
+          "width": 400,
+          "height": 67,
+          "mime_type": "image/avif",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/04/Roost-Concepts-Logo-White-2C-Tight.avif"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/04/Roost-Concepts-Logo-White-2C-Tight.avif",
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/552",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=552"
+        }
+      ]
+    }
+  },
+  {
+    "id": 545,
+    "date": "2026-04-23T01:28:10",
+    "date_gmt": "2026-04-23T01:28:10",
+    "guid": {
+      "rendered": "https://todomotoboulder.com/wp-content/uploads/2026/04/RJ_BlackBlue-01-e1629307274367.jpg"
+    },
+    "modified": "2026-04-23T01:28:10",
+    "modified_gmt": "2026-04-23T01:28:10",
+    "slug": "rj_blackblue-01-e1629307274367",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://todomotoboulder.com/rj_blackblue-01-e1629307274367/",
+    "title": {
+      "rendered": "RJ_BlackBlue-01-e1629307274367"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "class_list": [
+      "post-545",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry"
+    ],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://todomotoboulder.com/wp-content/uploads/2026/04/RJ_BlackBlue-01-e1629307274367.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"166\" src=\"https://todomotoboulder.com/wp-content/uploads/2026/04/RJ_BlackBlue-01-e1629307274367.jpg\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+    },
+    "caption": {
+      "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": 300,
+      "height": 166,
+      "file": "2026/04/RJ_BlackBlue-01-e1629307274367.jpg",
+      "filesize": 11310,
+      "sizes": {
+        "thumbnail": {
+          "file": "RJ_BlackBlue-01-e1629307274367-150x150.jpg",
+          "width": 150,
+          "height": 150,
+          "filesize": 5529,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/04/RJ_BlackBlue-01-e1629307274367-150x150.jpg"
+        },
+        "full": {
+          "file": "RJ_BlackBlue-01-e1629307274367.jpg",
+          "width": 300,
+          "height": 166,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/04/RJ_BlackBlue-01-e1629307274367.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/04/RJ_BlackBlue-01-e1629307274367.jpg",
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/545",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=545"
+        }
+      ]
+    }
+  },
+  {
+    "id": 544,
+    "date": "2026-04-23T01:27:29",
+    "date_gmt": "2026-04-23T01:27:29",
+    "guid": {
+      "rendered": "https://todomotoboulder.com/wp-content/uploads/2026/04/RJ-02-Logo-WhiteGold.webp"
+    },
+    "modified": "2026-04-23T01:27:29",
+    "modified_gmt": "2026-04-23T01:27:29",
+    "slug": "rj-02-logo-whitegold",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://todomotoboulder.com/rj-02-logo-whitegold/",
+    "title": {
+      "rendered": "RJ-02-Logo-WhiteGold"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "class_list": [
+      "post-544",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry"
+    ],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://todomotoboulder.com/wp-content/uploads/2026/04/RJ-02-Logo-WhiteGold.webp'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"116\" src=\"https://todomotoboulder.com/wp-content/uploads/2026/04/RJ-02-Logo-WhiteGold-300x116.webp\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://todomotoboulder.com/wp-content/uploads/2026/04/RJ-02-Logo-WhiteGold-300x116.webp 300w, https://todomotoboulder.com/wp-content/uploads/2026/04/RJ-02-Logo-WhiteGold.webp 726w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    },
+    "caption": {
+      "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/webp",
+    "media_details": {
+      "width": 726,
+      "height": 280,
+      "file": "2026/04/RJ-02-Logo-WhiteGold.webp",
+      "filesize": 6452,
+      "sizes": {
+        "medium": {
+          "file": "RJ-02-Logo-WhiteGold-300x116.webp",
+          "width": 300,
+          "height": 116,
+          "filesize": 3846,
+          "mime_type": "image/webp",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/04/RJ-02-Logo-WhiteGold-300x116.webp"
+        },
+        "thumbnail": {
+          "file": "RJ-02-Logo-WhiteGold-150x150.webp",
+          "width": 150,
+          "height": 150,
+          "filesize": 2510,
+          "mime_type": "image/webp",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/04/RJ-02-Logo-WhiteGold-150x150.webp"
+        },
+        "full": {
+          "file": "RJ-02-Logo-WhiteGold.webp",
+          "width": 726,
+          "height": 280,
+          "mime_type": "image/webp",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/04/RJ-02-Logo-WhiteGold.webp"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/04/RJ-02-Logo-WhiteGold.webp",
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/544",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=544"
+        }
+      ]
+    }
+  },
+  {
+    "id": 537,
+    "date": "2026-04-23T01:21:38",
+    "date_gmt": "2026-04-23T01:21:38",
+    "guid": {
+      "rendered": "https://todomotoboulder.com/wp-content/uploads/2026/04/NEW_Vikingbags_logo_16_Version.avif"
+    },
+    "modified": "2026-04-23T01:21:38",
+    "modified_gmt": "2026-04-23T01:21:38",
+    "slug": "new_vikingbags_logo_16_version",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://todomotoboulder.com/new_vikingbags_logo_16_version/",
+    "title": {
+      "rendered": "NEW_Vikingbags_logo_16_Version"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "class_list": [
+      "post-537",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry"
+    ],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://todomotoboulder.com/wp-content/uploads/2026/04/NEW_Vikingbags_logo_16_Version.avif'><img loading=\"lazy\" decoding=\"async\" width=\"130\" height=\"108\" src=\"https://todomotoboulder.com/wp-content/uploads/2026/04/NEW_Vikingbags_logo_16_Version.avif\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+    },
+    "caption": {
+      "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/avif",
+    "media_details": {
+      "width": 130,
+      "height": 108,
+      "file": "2026/04/NEW_Vikingbags_logo_16_Version.avif",
+      "filesize": 6196,
+      "sizes": {},
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/04/NEW_Vikingbags_logo_16_Version.avif",
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/537",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=537"
+        }
+      ]
+    }
+  },
+  {
+    "id": 453,
+    "date": "2026-03-06T18:39:24",
+    "date_gmt": "2026-03-06T18:39:24",
+    "guid": {
+      "rendered": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_p1gvznp1gvznp1gv.png"
+    },
+    "modified": "2026-03-06T18:39:24",
+    "modified_gmt": "2026-03-06T18:39:24",
+    "slug": "gemini_generated_image_p1gvznp1gvznp1gv",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://todomotoboulder.com/services/scooter-and-vespa-service/gemini_generated_image_p1gvznp1gvznp1gv/",
+    "title": {
+      "rendered": "Gemini_Generated_Image_p1gvznp1gvznp1gv"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "class_list": [
+      "post-453",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry"
+    ],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_p1gvznp1gvznp1gv-scaled.png'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"164\" src=\"https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_p1gvznp1gvznp1gv-300x164.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_p1gvznp1gvznp1gv-300x164.png 300w, https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_p1gvznp1gvznp1gv-1024x559.png 1024w, https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_p1gvznp1gvznp1gv-768x419.png 768w, https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_p1gvznp1gvznp1gv-1536x838.png 1536w, https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_p1gvznp1gvznp1gv-2048x1117.png 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    },
+    "caption": {
+      "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 2560,
+      "height": 1396,
+      "file": "2026/03/Gemini_Generated_Image_p1gvznp1gvznp1gv-scaled.png",
+      "filesize": 5882065,
+      "sizes": {
+        "medium": {
+          "file": "Gemini_Generated_Image_p1gvznp1gvznp1gv-300x164.png",
+          "width": 300,
+          "height": 164,
+          "filesize": 113464,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_p1gvznp1gvznp1gv-300x164.png"
+        },
+        "large": {
+          "file": "Gemini_Generated_Image_p1gvznp1gvznp1gv-1024x559.png",
+          "width": 1024,
+          "height": 559,
+          "filesize": 1043878,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_p1gvznp1gvznp1gv-1024x559.png"
+        },
+        "thumbnail": {
+          "file": "Gemini_Generated_Image_p1gvznp1gvznp1gv-150x150.png",
+          "width": 150,
+          "height": 150,
+          "filesize": 51441,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_p1gvznp1gvznp1gv-150x150.png"
+        },
+        "medium_large": {
+          "file": "Gemini_Generated_Image_p1gvznp1gvznp1gv-768x419.png",
+          "width": 768,
+          "height": 419,
+          "filesize": 620034,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_p1gvznp1gvznp1gv-768x419.png"
+        },
+        "1536x1536": {
+          "file": "Gemini_Generated_Image_p1gvznp1gvznp1gv-1536x838.png",
+          "width": 1536,
+          "height": 838,
+          "filesize": 2235704,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_p1gvznp1gvznp1gv-1536x838.png"
+        },
+        "2048x2048": {
+          "file": "Gemini_Generated_Image_p1gvznp1gvznp1gv-2048x1117.png",
+          "width": 2048,
+          "height": 1117,
+          "filesize": 3866279,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_p1gvznp1gvznp1gv-2048x1117.png"
+        },
+        "full": {
+          "file": "Gemini_Generated_Image_p1gvznp1gvznp1gv-scaled.png",
+          "width": 2560,
+          "height": 1396,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_p1gvznp1gvznp1gv-scaled.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      },
+      "original_image": "Gemini_Generated_Image_p1gvznp1gvznp1gv.png"
+    },
+    "post": 452,
+    "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_p1gvznp1gvznp1gv-scaled.png",
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/453",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=453"
+        }
+      ],
+      "wp:attached-to": [
+        {
+          "embeddable": true,
+          "post_type": "page",
+          "id": 452,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/452"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 390,
+    "date": "2026-03-04T22:36:37",
+    "date_gmt": "2026-03-04T22:36:37",
+    "guid": {
+      "rendered": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_cgbz3acgbz3acgbz.png"
+    },
+    "modified": "2026-03-04T22:36:37",
+    "modified_gmt": "2026-03-04T22:36:37",
+    "slug": "gemini_generated_image_cgbz3acgbz3acgbz",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://todomotoboulder.com/services/motorcycle-inspection/gemini_generated_image_cgbz3acgbz3acgbz/",
+    "title": {
+      "rendered": "Gemini_Generated_Image_cgbz3acgbz3acgbz"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "class_list": [
+      "post-390",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry"
+    ],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_cgbz3acgbz3acgbz-scaled.png'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"164\" src=\"https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_cgbz3acgbz3acgbz-300x164.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_cgbz3acgbz3acgbz-300x164.png 300w, https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_cgbz3acgbz3acgbz-1024x559.png 1024w, https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_cgbz3acgbz3acgbz-768x419.png 768w, https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_cgbz3acgbz3acgbz-1536x838.png 1536w, https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_cgbz3acgbz3acgbz-2048x1117.png 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    },
+    "caption": {
+      "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 2560,
+      "height": 1396,
+      "file": "2026/03/Gemini_Generated_Image_cgbz3acgbz3acgbz-scaled.png",
+      "filesize": 5829779,
+      "sizes": {
+        "medium": {
+          "file": "Gemini_Generated_Image_cgbz3acgbz3acgbz-300x164.png",
+          "width": 300,
+          "height": 164,
+          "filesize": 114276,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_cgbz3acgbz3acgbz-300x164.png"
+        },
+        "large": {
+          "file": "Gemini_Generated_Image_cgbz3acgbz3acgbz-1024x559.png",
+          "width": 1024,
+          "height": 559,
+          "filesize": 1057887,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_cgbz3acgbz3acgbz-1024x559.png"
+        },
+        "thumbnail": {
+          "file": "Gemini_Generated_Image_cgbz3acgbz3acgbz-150x150.png",
+          "width": 150,
+          "height": 150,
+          "filesize": 54001,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_cgbz3acgbz3acgbz-150x150.png"
+        },
+        "medium_large": {
+          "file": "Gemini_Generated_Image_cgbz3acgbz3acgbz-768x419.png",
+          "width": 768,
+          "height": 419,
+          "filesize": 629791,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_cgbz3acgbz3acgbz-768x419.png"
+        },
+        "1536x1536": {
+          "file": "Gemini_Generated_Image_cgbz3acgbz3acgbz-1536x838.png",
+          "width": 1536,
+          "height": 838,
+          "filesize": 2242869,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_cgbz3acgbz3acgbz-1536x838.png"
+        },
+        "2048x2048": {
+          "file": "Gemini_Generated_Image_cgbz3acgbz3acgbz-2048x1117.png",
+          "width": 2048,
+          "height": 1117,
+          "filesize": 3850631,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_cgbz3acgbz3acgbz-2048x1117.png"
+        },
+        "full": {
+          "file": "Gemini_Generated_Image_cgbz3acgbz3acgbz-scaled.png",
+          "width": 2560,
+          "height": 1396,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_cgbz3acgbz3acgbz-scaled.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      },
+      "original_image": "Gemini_Generated_Image_cgbz3acgbz3acgbz.png"
+    },
+    "post": 389,
+    "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_cgbz3acgbz3acgbz-scaled.png",
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/390",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=390"
+        }
+      ],
+      "wp:attached-to": [
+        {
+          "embeddable": true,
+          "post_type": "page",
+          "id": 389,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/389"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 382,
+    "date": "2026-03-04T22:31:59",
+    "date_gmt": "2026-03-04T22:31:59",
+    "guid": {
+      "rendered": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_4noksb4noksb4nok.png"
+    },
+    "modified": "2026-03-04T22:31:59",
+    "modified_gmt": "2026-03-04T22:31:59",
+    "slug": "gemini_generated_image_4noksb4noksb4nok",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://todomotoboulder.com/services/motorcycle-diagnosis/gemini_generated_image_4noksb4noksb4nok/",
+    "title": {
+      "rendered": "Gemini_Generated_Image_4noksb4noksb4nok"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "class_list": [
+      "post-382",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry"
+    ],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_4noksb4noksb4nok-scaled.png'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"164\" src=\"https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_4noksb4noksb4nok-300x164.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_4noksb4noksb4nok-300x164.png 300w, https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_4noksb4noksb4nok-1024x559.png 1024w, https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_4noksb4noksb4nok-768x419.png 768w, https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_4noksb4noksb4nok-1536x838.png 1536w, https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_4noksb4noksb4nok-2048x1117.png 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    },
+    "caption": {
+      "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 2560,
+      "height": 1396,
+      "file": "2026/03/Gemini_Generated_Image_4noksb4noksb4nok-scaled.png",
+      "filesize": 6461488,
+      "sizes": {
+        "medium": {
+          "file": "Gemini_Generated_Image_4noksb4noksb4nok-300x164.png",
+          "width": 300,
+          "height": 164,
+          "filesize": 120884,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_4noksb4noksb4nok-300x164.png"
+        },
+        "large": {
+          "file": "Gemini_Generated_Image_4noksb4noksb4nok-1024x559.png",
+          "width": 1024,
+          "height": 559,
+          "filesize": 1165374,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_4noksb4noksb4nok-1024x559.png"
+        },
+        "thumbnail": {
+          "file": "Gemini_Generated_Image_4noksb4noksb4nok-150x150.png",
+          "width": 150,
+          "height": 150,
+          "filesize": 56629,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_4noksb4noksb4nok-150x150.png"
+        },
+        "medium_large": {
+          "file": "Gemini_Generated_Image_4noksb4noksb4nok-768x419.png",
+          "width": 768,
+          "height": 419,
+          "filesize": 687225,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_4noksb4noksb4nok-768x419.png"
+        },
+        "1536x1536": {
+          "file": "Gemini_Generated_Image_4noksb4noksb4nok-1536x838.png",
+          "width": 1536,
+          "height": 838,
+          "filesize": 2487033,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_4noksb4noksb4nok-1536x838.png"
+        },
+        "2048x2048": {
+          "file": "Gemini_Generated_Image_4noksb4noksb4nok-2048x1117.png",
+          "width": 2048,
+          "height": 1117,
+          "filesize": 4268733,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_4noksb4noksb4nok-2048x1117.png"
+        },
+        "full": {
+          "file": "Gemini_Generated_Image_4noksb4noksb4nok-scaled.png",
+          "width": 2560,
+          "height": 1396,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_4noksb4noksb4nok-scaled.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      },
+      "original_image": "Gemini_Generated_Image_4noksb4noksb4nok.png"
+    },
+    "post": 381,
+    "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_4noksb4noksb4nok-scaled.png",
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/382",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=382"
+        }
+      ],
+      "wp:attached-to": [
+        {
+          "embeddable": true,
+          "post_type": "page",
+          "id": 381,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/381"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 372,
+    "date": "2026-03-04T22:20:06",
+    "date_gmt": "2026-03-04T22:20:06",
+    "guid": {
+      "rendered": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_89tw7589tw7589tw.png"
+    },
+    "modified": "2026-03-04T22:20:06",
+    "modified_gmt": "2026-03-04T22:20:06",
+    "slug": "gemini_generated_image_89tw7589tw7589tw",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://todomotoboulder.com/services/motorcycle-oil-change/gemini_generated_image_89tw7589tw7589tw/",
+    "title": {
+      "rendered": "Gemini_Generated_Image_89tw7589tw7589tw"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "class_list": [
+      "post-372",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry"
+    ],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_89tw7589tw7589tw-scaled.png'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"167\" src=\"https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_89tw7589tw7589tw-300x167.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_89tw7589tw7589tw-300x167.png 300w, https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_89tw7589tw7589tw-1024x572.png 1024w, https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_89tw7589tw7589tw-768x429.png 768w, https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_89tw7589tw7589tw-1536x857.png 1536w, https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_89tw7589tw7589tw-2048x1143.png 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    },
+    "caption": {
+      "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 2560,
+      "height": 1429,
+      "file": "2026/03/Gemini_Generated_Image_89tw7589tw7589tw-scaled.png",
+      "filesize": 5724563,
+      "sizes": {
+        "medium": {
+          "file": "Gemini_Generated_Image_89tw7589tw7589tw-300x167.png",
+          "width": 300,
+          "height": 167,
+          "filesize": 109271,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_89tw7589tw7589tw-300x167.png"
+        },
+        "large": {
+          "file": "Gemini_Generated_Image_89tw7589tw7589tw-1024x572.png",
+          "width": 1024,
+          "height": 572,
+          "filesize": 1021787,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_89tw7589tw7589tw-1024x572.png"
+        },
+        "thumbnail": {
+          "file": "Gemini_Generated_Image_89tw7589tw7589tw-150x150.png",
+          "width": 150,
+          "height": 150,
+          "filesize": 52626,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_89tw7589tw7589tw-150x150.png"
+        },
+        "medium_large": {
+          "file": "Gemini_Generated_Image_89tw7589tw7589tw-768x429.png",
+          "width": 768,
+          "height": 429,
+          "filesize": 604474,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_89tw7589tw7589tw-768x429.png"
+        },
+        "1536x1536": {
+          "file": "Gemini_Generated_Image_89tw7589tw7589tw-1536x857.png",
+          "width": 1536,
+          "height": 857,
+          "filesize": 2186958,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_89tw7589tw7589tw-1536x857.png"
+        },
+        "2048x2048": {
+          "file": "Gemini_Generated_Image_89tw7589tw7589tw-2048x1143.png",
+          "width": 2048,
+          "height": 1143,
+          "filesize": 3772620,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_89tw7589tw7589tw-2048x1143.png"
+        },
+        "full": {
+          "file": "Gemini_Generated_Image_89tw7589tw7589tw-scaled.png",
+          "width": 2560,
+          "height": 1429,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_89tw7589tw7589tw-scaled.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      },
+      "original_image": "Gemini_Generated_Image_89tw7589tw7589tw.png"
+    },
+    "post": 358,
+    "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/Gemini_Generated_Image_89tw7589tw7589tw-scaled.png",
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/372",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=372"
+        }
+      ],
+      "wp:attached-to": [
+        {
+          "embeddable": true,
+          "post_type": "page",
+          "id": 358,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/358"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 369,
+    "date": "2026-03-04T22:08:38",
+    "date_gmt": "2026-03-04T22:08:38",
+    "guid": {
+      "rendered": "https://todomotoboulder.com/wp-content/uploads/elementor/screenshots/Elementor-post-screenshot_366_2026-03-04-22-08-38_9030090.png"
+    },
+    "modified": "2026-03-04T22:08:38",
+    "modified_gmt": "2026-03-04T22:08:38",
+    "slug": "elementor-post-screenshot_366_2026-03-04-22-08-38_9030090-png",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://todomotoboulder.com/?attachment_id=369",
+    "title": {
+      "rendered": "Elementor-post-screenshot_366_2026-03-04-22-08-38_9030090.png"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "class_list": [
+      "post-369",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry"
+    ],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://todomotoboulder.com/wp-content/uploads/elementor/screenshots/Elementor-post-screenshot_366_2026-03-04-22-08-38_9030090.png'><img loading=\"lazy\" decoding=\"async\" width=\"1\" height=\"1\" src=\"https://todomotoboulder.com/wp-content/uploads/elementor/screenshots/Elementor-post-screenshot_366_2026-03-04-22-08-38_9030090.png\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+    },
+    "caption": {
+      "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {},
+    "post": 366,
+    "source_url": "https://todomotoboulder.com/wp-content/uploads/elementor/screenshots/Elementor-post-screenshot_366_2026-03-04-22-08-38_9030090.png",
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/369",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=369"
+        }
+      ],
+      "wp:attached-to": [
+        {
+          "embeddable": true,
+          "post_type": "elementor_library",
+          "id": 366,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/elementor_library/366"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 334,
+    "date": "2026-03-02T21:58:41",
+    "date_gmt": "2026-03-02T21:58:41",
+    "guid": {
+      "rendered": "https://todomotoboulder.com/wp-content/uploads/2026/03/68014914244__D670CE57-3370-4153-B069-25F3EBEA3A63.jpg"
+    },
+    "modified": "2026-03-02T21:58:41",
+    "modified_gmt": "2026-03-02T21:58:41",
+    "slug": "68014914244__d670ce57-3370-4153-b069-25f3ebea3a63",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://todomotoboulder.com/68014914244__d670ce57-3370-4153-b069-25f3ebea3a63/",
+    "title": {
+      "rendered": "68014914244__D670CE57-3370-4153-B069-25F3EBEA3A63"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "class_list": [
+      "post-334",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry"
+    ],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://todomotoboulder.com/wp-content/uploads/2026/03/68014914244__D670CE57-3370-4153-B069-25F3EBEA3A63-scaled.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"225\" src=\"https://todomotoboulder.com/wp-content/uploads/2026/03/68014914244__D670CE57-3370-4153-B069-25F3EBEA3A63-300x225.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://todomotoboulder.com/wp-content/uploads/2026/03/68014914244__D670CE57-3370-4153-B069-25F3EBEA3A63-300x225.jpg 300w, https://todomotoboulder.com/wp-content/uploads/2026/03/68014914244__D670CE57-3370-4153-B069-25F3EBEA3A63-1024x768.jpg 1024w, https://todomotoboulder.com/wp-content/uploads/2026/03/68014914244__D670CE57-3370-4153-B069-25F3EBEA3A63-768x576.jpg 768w, https://todomotoboulder.com/wp-content/uploads/2026/03/68014914244__D670CE57-3370-4153-B069-25F3EBEA3A63-1536x1152.jpg 1536w, https://todomotoboulder.com/wp-content/uploads/2026/03/68014914244__D670CE57-3370-4153-B069-25F3EBEA3A63-2048x1536.jpg 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    },
+    "caption": {
+      "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": 2560,
+      "height": 1920,
+      "file": "2026/03/68014914244__D670CE57-3370-4153-B069-25F3EBEA3A63-scaled.jpg",
+      "filesize": 863746,
+      "sizes": {
+        "medium": {
+          "file": "68014914244__D670CE57-3370-4153-B069-25F3EBEA3A63-300x225.jpg",
+          "width": 300,
+          "height": 225,
+          "filesize": 35064,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/68014914244__D670CE57-3370-4153-B069-25F3EBEA3A63-300x225.jpg"
+        },
+        "large": {
+          "file": "68014914244__D670CE57-3370-4153-B069-25F3EBEA3A63-1024x768.jpg",
+          "width": 1024,
+          "height": 768,
+          "filesize": 190001,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/68014914244__D670CE57-3370-4153-B069-25F3EBEA3A63-1024x768.jpg"
+        },
+        "thumbnail": {
+          "file": "68014914244__D670CE57-3370-4153-B069-25F3EBEA3A63-150x150.jpg",
+          "width": 150,
+          "height": 150,
+          "filesize": 21951,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/68014914244__D670CE57-3370-4153-B069-25F3EBEA3A63-150x150.jpg"
+        },
+        "medium_large": {
+          "file": "68014914244__D670CE57-3370-4153-B069-25F3EBEA3A63-768x576.jpg",
+          "width": 768,
+          "height": 576,
+          "filesize": 121029,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/68014914244__D670CE57-3370-4153-B069-25F3EBEA3A63-768x576.jpg"
+        },
+        "1536x1536": {
+          "file": "68014914244__D670CE57-3370-4153-B069-25F3EBEA3A63-1536x1152.jpg",
+          "width": 1536,
+          "height": 1152,
+          "filesize": 367464,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/68014914244__D670CE57-3370-4153-B069-25F3EBEA3A63-1536x1152.jpg"
+        },
+        "2048x2048": {
+          "file": "68014914244__D670CE57-3370-4153-B069-25F3EBEA3A63-2048x1536.jpg",
+          "width": 2048,
+          "height": 1536,
+          "filesize": 594497,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/68014914244__D670CE57-3370-4153-B069-25F3EBEA3A63-2048x1536.jpg"
+        },
+        "full": {
+          "file": "68014914244__D670CE57-3370-4153-B069-25F3EBEA3A63-scaled.jpg",
+          "width": 2560,
+          "height": 1920,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/68014914244__D670CE57-3370-4153-B069-25F3EBEA3A63-scaled.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "1.8",
+        "credit": "",
+        "camera": "iPhone 11",
+        "caption": "",
+        "created_timestamp": "1658431142",
+        "copyright": "",
+        "focal_length": "4.25",
+        "iso": "80",
+        "shutter_speed": "0.016666666666667",
+        "title": "",
+        "orientation": "1",
+        "keywords": []
+      },
+      "original_image": "68014914244__D670CE57-3370-4153-B069-25F3EBEA3A63.jpg"
+    },
+    "post": null,
+    "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/03/68014914244__D670CE57-3370-4153-B069-25F3EBEA3A63-scaled.jpg",
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/334",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=334"
+        }
+      ]
+    }
+  },
+  {
+    "id": 304,
+    "date": "2026-02-12T23:07:51",
+    "date_gmt": "2026-02-12T23:07:51",
+    "guid": {
+      "rendered": "https://todomotoboulder.com/wp-content/uploads/2026/02/unnamed.jpg"
+    },
+    "modified": "2026-02-12T23:07:51",
+    "modified_gmt": "2026-02-12T23:07:51",
+    "slug": "unnamed",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://todomotoboulder.com/unnamed/",
+    "title": {
+      "rendered": "unnamed"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "class_list": [
+      "post-304",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry"
+    ],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://todomotoboulder.com/wp-content/uploads/2026/02/unnamed.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"200\" src=\"https://todomotoboulder.com/wp-content/uploads/2026/02/unnamed-300x200.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://todomotoboulder.com/wp-content/uploads/2026/02/unnamed-300x200.jpg 300w, https://todomotoboulder.com/wp-content/uploads/2026/02/unnamed.jpg 700w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    },
+    "caption": {
+      "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": 700,
+      "height": 467,
+      "file": "2026/02/unnamed.jpg",
+      "filesize": 87855,
+      "sizes": {
+        "medium": {
+          "file": "unnamed-300x200.jpg",
+          "width": 300,
+          "height": 200,
+          "filesize": 20267,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/unnamed-300x200.jpg"
+        },
+        "thumbnail": {
+          "file": "unnamed-150x150.jpg",
+          "width": 150,
+          "height": 150,
+          "filesize": 8689,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/unnamed-150x150.jpg"
+        },
+        "full": {
+          "file": "unnamed.jpg",
+          "width": 700,
+          "height": 467,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/unnamed.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/unnamed.jpg",
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/304",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=304"
+        }
+      ]
+    }
+  },
+  {
+    "id": 272,
+    "date": "2026-02-12T16:49:10",
+    "date_gmt": "2026-02-12T16:49:10",
+    "guid": {
+      "rendered": "https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-01.png"
+    },
+    "modified": "2026-02-12T16:49:10",
+    "modified_gmt": "2026-02-12T16:49:10",
+    "slug": "todomoto03-01",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://todomotoboulder.com/todomoto03-01/",
+    "title": {
+      "rendered": "TodoMoto03-01"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "class_list": [
+      "post-272",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry"
+    ],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-01-scaled.png'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"222\" src=\"https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-01-300x222.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-01-300x222.png 300w, https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-01-1024x758.png 1024w, https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-01-768x569.png 768w, https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-01-1536x1138.png 1536w, https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-01-2048x1517.png 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    },
+    "caption": {
+      "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 2560,
+      "height": 1896,
+      "file": "2026/02/TodoMoto03-01-scaled.png",
+      "filesize": 139156,
+      "sizes": {
+        "medium": {
+          "file": "TodoMoto03-01-300x222.png",
+          "width": 300,
+          "height": 222,
+          "filesize": 10450,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-01-300x222.png"
+        },
+        "large": {
+          "file": "TodoMoto03-01-1024x758.png",
+          "width": 1024,
+          "height": 758,
+          "filesize": 46403,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-01-1024x758.png"
+        },
+        "thumbnail": {
+          "file": "TodoMoto03-01-150x150.png",
+          "width": 150,
+          "height": 150,
+          "filesize": 6175,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-01-150x150.png"
+        },
+        "medium_large": {
+          "file": "TodoMoto03-01-768x569.png",
+          "width": 768,
+          "height": 569,
+          "filesize": 32754,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-01-768x569.png"
+        },
+        "1536x1536": {
+          "file": "TodoMoto03-01-1536x1138.png",
+          "width": 1536,
+          "height": 1138,
+          "filesize": 75252,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-01-1536x1138.png"
+        },
+        "2048x2048": {
+          "file": "TodoMoto03-01-2048x1517.png",
+          "width": 2048,
+          "height": 1517,
+          "filesize": 105864,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-01-2048x1517.png"
+        },
+        "full": {
+          "file": "TodoMoto03-01-scaled.png",
+          "width": 2560,
+          "height": 1896,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-01-scaled.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      },
+      "original_image": "TodoMoto03-01.png"
+    },
+    "post": null,
+    "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-01-scaled.png",
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/272",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=272"
+        }
+      ]
+    }
+  },
+  {
+    "id": 271,
+    "date": "2026-02-12T16:49:04",
+    "date_gmt": "2026-02-12T16:49:04",
+    "guid": {
+      "rendered": "https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-04.png"
+    },
+    "modified": "2026-02-12T16:49:04",
+    "modified_gmt": "2026-02-12T16:49:04",
+    "slug": "todomoto03-04",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://todomotoboulder.com/todomoto03-04/",
+    "title": {
+      "rendered": "TodoMoto03-04"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "class_list": [
+      "post-271",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry"
+    ],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-04-scaled.png'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"222\" src=\"https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-04-300x222.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-04-300x222.png 300w, https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-04-1024x758.png 1024w, https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-04-768x569.png 768w, https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-04-1536x1138.png 1536w, https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-04-2048x1517.png 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    },
+    "caption": {
+      "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 2560,
+      "height": 1896,
+      "file": "2026/02/TodoMoto03-04-scaled.png",
+      "filesize": 203188,
+      "sizes": {
+        "medium": {
+          "file": "TodoMoto03-04-300x222.png",
+          "width": 300,
+          "height": 222,
+          "filesize": 15518,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-04-300x222.png"
+        },
+        "large": {
+          "file": "TodoMoto03-04-1024x758.png",
+          "width": 1024,
+          "height": 758,
+          "filesize": 70334,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-04-1024x758.png"
+        },
+        "thumbnail": {
+          "file": "TodoMoto03-04-150x150.png",
+          "width": 150,
+          "height": 150,
+          "filesize": 8944,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-04-150x150.png"
+        },
+        "medium_large": {
+          "file": "TodoMoto03-04-768x569.png",
+          "width": 768,
+          "height": 569,
+          "filesize": 49460,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-04-768x569.png"
+        },
+        "1536x1536": {
+          "file": "TodoMoto03-04-1536x1138.png",
+          "width": 1536,
+          "height": 1138,
+          "filesize": 111848,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-04-1536x1138.png"
+        },
+        "2048x2048": {
+          "file": "TodoMoto03-04-2048x1517.png",
+          "width": 2048,
+          "height": 1517,
+          "filesize": 157163,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-04-2048x1517.png"
+        },
+        "full": {
+          "file": "TodoMoto03-04-scaled.png",
+          "width": 2560,
+          "height": 1896,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-04-scaled.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      },
+      "original_image": "TodoMoto03-04.png"
+    },
+    "post": null,
+    "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-04-scaled.png",
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/271",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=271"
+        }
+      ]
+    }
+  },
+  {
+    "id": 223,
+    "date": "2026-02-12T01:08:46",
+    "date_gmt": "2026-02-12T01:08:46",
+    "guid": {
+      "rendered": "http://todomotoboulder.com/wp-content/uploads/2026/02/20241028-DSC01047.jpg"
+    },
+    "modified": "2026-02-12T01:08:46",
+    "modified_gmt": "2026-02-12T01:08:46",
+    "slug": "20241028-dsc01047",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://todomotoboulder.com/who-we-are/20241028-dsc01047/",
+    "title": {
+      "rendered": "20241028-DSC01047"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "class_list": [
+      "post-223",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry"
+    ],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://todomotoboulder.com/wp-content/uploads/2026/02/20241028-DSC01047.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"200\" src=\"https://todomotoboulder.com/wp-content/uploads/2026/02/20241028-DSC01047-300x200.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://todomotoboulder.com/wp-content/uploads/2026/02/20241028-DSC01047-300x200.jpg 300w, https://todomotoboulder.com/wp-content/uploads/2026/02/20241028-DSC01047-768x512.jpg 768w, https://todomotoboulder.com/wp-content/uploads/2026/02/20241028-DSC01047.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    },
+    "caption": {
+      "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": 1024,
+      "height": 683,
+      "file": "2026/02/20241028-DSC01047.jpg",
+      "filesize": 315229,
+      "sizes": {
+        "medium": {
+          "file": "20241028-DSC01047-300x200.jpg",
+          "width": 300,
+          "height": 200,
+          "filesize": 47671,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/20241028-DSC01047-300x200.jpg"
+        },
+        "thumbnail": {
+          "file": "20241028-DSC01047-150x150.jpg",
+          "width": 150,
+          "height": 150,
+          "filesize": 38769,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/20241028-DSC01047-150x150.jpg"
+        },
+        "medium_large": {
+          "file": "20241028-DSC01047-768x512.jpg",
+          "width": 768,
+          "height": 512,
+          "filesize": 119048,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/20241028-DSC01047-768x512.jpg"
+        },
+        "full": {
+          "file": "20241028-DSC01047.jpg",
+          "width": 1024,
+          "height": 683,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/20241028-DSC01047.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "4",
+        "credit": "",
+        "camera": "ILCE-7M3",
+        "caption": "",
+        "created_timestamp": "1730147837",
+        "copyright": "",
+        "focal_length": "95",
+        "iso": "400",
+        "shutter_speed": "0.0005",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": 98,
+    "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/20241028-DSC01047.jpg",
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/223",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=223"
+        }
+      ],
+      "wp:attached-to": [
+        {
+          "embeddable": true,
+          "post_type": "page",
+          "id": 98,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/98"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 118,
+    "date": "2026-02-11T03:12:01",
+    "date_gmt": "2026-02-11T03:12:01",
+    "guid": {
+      "rendered": "http://todomotoboulder.com/wp-content/uploads/2026/02/IMG_6869.heic"
+    },
+    "modified": "2026-02-11T03:12:01",
+    "modified_gmt": "2026-02-11T03:12:01",
+    "slug": "img_6869",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://todomotoboulder.com/contact-us/img_6869/",
+    "title": {
+      "rendered": "IMG_6869"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "class_list": [
+      "post-118",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry"
+    ],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://todomotoboulder.com/wp-content/uploads/2026/02/IMG_6869.heic'><img loading=\"lazy\" decoding=\"async\" width=\"1\" height=\"1\" src=\"https://todomotoboulder.com/wp-content/uploads/2026/02/IMG_6869.heic\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+    },
+    "caption": {
+      "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/heic",
+    "media_details": {
+      "filesize": 4639201,
+      "sizes": {}
+    },
+    "post": 117,
+    "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/IMG_6869.heic",
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/118",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=118"
+        }
+      ],
+      "wp:attached-to": [
+        {
+          "embeddable": true,
+          "post_type": "page",
+          "id": 117,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/pages/117"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 56,
+    "date": "2026-02-11T01:51:35",
+    "date_gmt": "2026-02-11T01:51:35",
+    "guid": {
+      "rendered": "http://todomotoboulder.com/wp-content/uploads/2026/02/cropped-TodoMoto03-03-scaled-1.png"
+    },
+    "modified": "2026-02-11T01:51:35",
+    "modified_gmt": "2026-02-11T01:51:35",
+    "slug": "todomoto03-03-2",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://todomotoboulder.com/todomoto03-03/todomoto03-03-2/",
+    "title": {
+      "rendered": "TodoMoto03-03"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "class_list": [
+      "post-56",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry"
+    ],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://todomotoboulder.com/wp-content/uploads/2026/02/cropped-TodoMoto03-03-scaled-1.png'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"300\" src=\"https://todomotoboulder.com/wp-content/uploads/2026/02/cropped-TodoMoto03-03-scaled-1-300x300.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://todomotoboulder.com/wp-content/uploads/2026/02/cropped-TodoMoto03-03-scaled-1-300x300.png 300w, https://todomotoboulder.com/wp-content/uploads/2026/02/cropped-TodoMoto03-03-scaled-1-150x150.png 150w, https://todomotoboulder.com/wp-content/uploads/2026/02/cropped-TodoMoto03-03-scaled-1-270x270.png 270w, https://todomotoboulder.com/wp-content/uploads/2026/02/cropped-TodoMoto03-03-scaled-1-192x192.png 192w, https://todomotoboulder.com/wp-content/uploads/2026/02/cropped-TodoMoto03-03-scaled-1-180x180.png 180w, https://todomotoboulder.com/wp-content/uploads/2026/02/cropped-TodoMoto03-03-scaled-1-32x32.png 32w, https://todomotoboulder.com/wp-content/uploads/2026/02/cropped-TodoMoto03-03-scaled-1.png 512w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n<p>https://todomotoboulder.com/wp-content/uploads/2026/02/cropped-TodoMoto03-03-scaled-1.png</p>\n"
+    },
+    "caption": {
+      "rendered": "<p>https://todomotoboulder.com/wp-content/uploads/2026/02/cropped-TodoMoto03-03-scaled-1.png</p>\n"
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 512,
+      "height": 512,
+      "file": "2026/02/cropped-TodoMoto03-03-scaled-1.png",
+      "filesize": 26340,
+      "sizes": {
+        "medium": {
+          "file": "cropped-TodoMoto03-03-scaled-1-300x300.png",
+          "width": 300,
+          "height": 300,
+          "filesize": 15299,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/cropped-TodoMoto03-03-scaled-1-300x300.png"
+        },
+        "thumbnail": {
+          "file": "cropped-TodoMoto03-03-scaled-1-150x150.png",
+          "width": 150,
+          "height": 150,
+          "filesize": 5958,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/cropped-TodoMoto03-03-scaled-1-150x150.png"
+        },
+        "site_icon-270": {
+          "file": "cropped-TodoMoto03-03-scaled-1-270x270.png",
+          "width": 270,
+          "height": 270,
+          "filesize": 13225,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/cropped-TodoMoto03-03-scaled-1-270x270.png"
+        },
+        "site_icon-192": {
+          "file": "cropped-TodoMoto03-03-scaled-1-192x192.png",
+          "width": 192,
+          "height": 192,
+          "filesize": 8378,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/cropped-TodoMoto03-03-scaled-1-192x192.png"
+        },
+        "site_icon-180": {
+          "file": "cropped-TodoMoto03-03-scaled-1-180x180.png",
+          "width": 180,
+          "height": 180,
+          "filesize": 7656,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/cropped-TodoMoto03-03-scaled-1-180x180.png"
+        },
+        "site_icon-32": {
+          "file": "cropped-TodoMoto03-03-scaled-1-32x32.png",
+          "width": 32,
+          "height": 32,
+          "filesize": 733,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/cropped-TodoMoto03-03-scaled-1-32x32.png"
+        },
+        "full": {
+          "file": "cropped-TodoMoto03-03-scaled-1.png",
+          "width": 512,
+          "height": 512,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/cropped-TodoMoto03-03-scaled-1.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": 47,
+    "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/cropped-TodoMoto03-03-scaled-1.png",
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/56",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=56"
+        }
+      ],
+      "wp:attached-to": [
+        {
+          "embeddable": true,
+          "post_type": "attachment",
+          "id": 47,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/47"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 51,
+    "date": "2026-02-11T01:42:13",
+    "date_gmt": "2026-02-11T01:42:13",
+    "guid": {
+      "rendered": "http://todomotoboulder.com/wp-content/uploads/2026/02/000217650018.jpg"
+    },
+    "modified": "2026-02-11T01:42:13",
+    "modified_gmt": "2026-02-11T01:42:13",
+    "slug": "000217650018",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://todomotoboulder.com/000217650018/",
+    "title": {
+      "rendered": "000217650018"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "class_list": [
+      "post-51",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry"
+    ],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://todomotoboulder.com/wp-content/uploads/2026/02/000217650018-scaled.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"199\" src=\"https://todomotoboulder.com/wp-content/uploads/2026/02/000217650018-300x199.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://todomotoboulder.com/wp-content/uploads/2026/02/000217650018-300x199.jpg 300w, https://todomotoboulder.com/wp-content/uploads/2026/02/000217650018-1024x679.jpg 1024w, https://todomotoboulder.com/wp-content/uploads/2026/02/000217650018-768x509.jpg 768w, https://todomotoboulder.com/wp-content/uploads/2026/02/000217650018-1536x1018.jpg 1536w, https://todomotoboulder.com/wp-content/uploads/2026/02/000217650018-2048x1358.jpg 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    },
+    "caption": {
+      "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": 2560,
+      "height": 1697,
+      "file": "2026/02/000217650018-scaled.jpg",
+      "filesize": 816320,
+      "sizes": {
+        "medium": {
+          "file": "000217650018-300x199.jpg",
+          "width": 300,
+          "height": 199,
+          "filesize": 31380,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/000217650018-300x199.jpg"
+        },
+        "large": {
+          "file": "000217650018-1024x679.jpg",
+          "width": 1024,
+          "height": 679,
+          "filesize": 105446,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/000217650018-1024x679.jpg"
+        },
+        "thumbnail": {
+          "file": "000217650018-150x150.jpg",
+          "width": 150,
+          "height": 150,
+          "filesize": 26000,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/000217650018-150x150.jpg"
+        },
+        "medium_large": {
+          "file": "000217650018-768x509.jpg",
+          "width": 768,
+          "height": 509,
+          "filesize": 68315,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/000217650018-768x509.jpg"
+        },
+        "1536x1536": {
+          "file": "000217650018-1536x1018.jpg",
+          "width": 1536,
+          "height": 1018,
+          "filesize": 237875,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/000217650018-1536x1018.jpg"
+        },
+        "2048x2048": {
+          "file": "000217650018-2048x1358.jpg",
+          "width": 2048,
+          "height": 1358,
+          "filesize": 446368,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/000217650018-2048x1358.jpg"
+        },
+        "full": {
+          "file": "000217650018-scaled.jpg",
+          "width": 2560,
+          "height": 1697,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/000217650018-scaled.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "EZ Controller",
+        "caption": "",
+        "created_timestamp": "1744119575",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      },
+      "original_image": "000217650018.jpg"
+    },
+    "post": null,
+    "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/000217650018-scaled.jpg",
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/51",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=51"
+        }
+      ]
+    }
+  },
+  {
+    "id": 50,
+    "date": "2026-02-11T01:42:11",
+    "date_gmt": "2026-02-11T01:42:11",
+    "guid": {
+      "rendered": "http://todomotoboulder.com/wp-content/uploads/2026/02/20260120-DSC07050.jpg"
+    },
+    "modified": "2026-02-11T01:42:11",
+    "modified_gmt": "2026-02-11T01:42:11",
+    "slug": "20260120-dsc07050",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://todomotoboulder.com/20260120-dsc07050/",
+    "title": {
+      "rendered": "20260120-DSC07050"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "class_list": [
+      "post-50",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry"
+    ],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://todomotoboulder.com/wp-content/uploads/2026/02/20260120-DSC07050.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"200\" height=\"300\" src=\"https://todomotoboulder.com/wp-content/uploads/2026/02/20260120-DSC07050-200x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://todomotoboulder.com/wp-content/uploads/2026/02/20260120-DSC07050-200x300.jpg 200w, https://todomotoboulder.com/wp-content/uploads/2026/02/20260120-DSC07050.jpg 683w\" sizes=\"(max-width: 200px) 100vw, 200px\" /></a></p>\n"
+    },
+    "caption": {
+      "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": 683,
+      "height": 1024,
+      "file": "2026/02/20260120-DSC07050.jpg",
+      "filesize": 260578,
+      "sizes": {
+        "medium": {
+          "file": "20260120-DSC07050-200x300.jpg",
+          "width": 200,
+          "height": 300,
+          "filesize": 53136,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/20260120-DSC07050-200x300.jpg"
+        },
+        "thumbnail": {
+          "file": "20260120-DSC07050-150x150.jpg",
+          "width": 150,
+          "height": 150,
+          "filesize": 41715,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/20260120-DSC07050-150x150.jpg"
+        },
+        "full": {
+          "file": "20260120-DSC07050.jpg",
+          "width": 683,
+          "height": 1024,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/20260120-DSC07050.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "2.8",
+        "credit": "",
+        "camera": "ILCE-7RM5",
+        "caption": "",
+        "created_timestamp": "1768939429",
+        "copyright": "",
+        "focal_length": "85",
+        "iso": "400",
+        "shutter_speed": "0.01",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      }
+    },
+    "post": null,
+    "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/20260120-DSC07050.jpg",
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/50",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=50"
+        }
+      ]
+    }
+  },
+  {
+    "id": 49,
+    "date": "2026-02-11T01:41:22",
+    "date_gmt": "2026-02-11T01:41:22",
+    "guid": {
+      "rendered": "http://todomotoboulder.com/wp-content/uploads/2026/02/DSC7423.jpg"
+    },
+    "modified": "2026-02-11T01:41:22",
+    "modified_gmt": "2026-02-11T01:41:22",
+    "slug": "_dsc7423",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://todomotoboulder.com/_dsc7423/",
+    "title": {
+      "rendered": "_DSC7423"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "class_list": [
+      "post-49",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry"
+    ],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://todomotoboulder.com/wp-content/uploads/2026/02/DSC7423-scaled.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"200\" height=\"300\" src=\"https://todomotoboulder.com/wp-content/uploads/2026/02/DSC7423-200x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://todomotoboulder.com/wp-content/uploads/2026/02/DSC7423-200x300.jpg 200w, https://todomotoboulder.com/wp-content/uploads/2026/02/DSC7423-683x1024.jpg 683w, https://todomotoboulder.com/wp-content/uploads/2026/02/DSC7423-768x1152.jpg 768w, https://todomotoboulder.com/wp-content/uploads/2026/02/DSC7423-1024x1536.jpg 1024w, https://todomotoboulder.com/wp-content/uploads/2026/02/DSC7423-1365x2048.jpg 1365w, https://todomotoboulder.com/wp-content/uploads/2026/02/DSC7423-scaled.jpg 1707w\" sizes=\"(max-width: 200px) 100vw, 200px\" /></a></p>\n"
+    },
+    "caption": {
+      "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": 1707,
+      "height": 2560,
+      "file": "2026/02/DSC7423-scaled.jpg",
+      "filesize": 578577,
+      "sizes": {
+        "medium": {
+          "file": "DSC7423-200x300.jpg",
+          "width": 200,
+          "height": 300,
+          "filesize": 38287,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/DSC7423-200x300.jpg"
+        },
+        "large": {
+          "file": "DSC7423-683x1024.jpg",
+          "width": 683,
+          "height": 1024,
+          "filesize": 105777,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/DSC7423-683x1024.jpg"
+        },
+        "thumbnail": {
+          "file": "DSC7423-150x150.jpg",
+          "width": 150,
+          "height": 150,
+          "filesize": 32748,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/DSC7423-150x150.jpg"
+        },
+        "medium_large": {
+          "file": "DSC7423-768x1152.jpg",
+          "width": 768,
+          "height": 1152,
+          "filesize": 123479,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/DSC7423-768x1152.jpg"
+        },
+        "1536x1536": {
+          "file": "DSC7423-1024x1536.jpg",
+          "width": 1024,
+          "height": 1536,
+          "filesize": 200807,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/DSC7423-1024x1536.jpg"
+        },
+        "2048x2048": {
+          "file": "DSC7423-1365x2048.jpg",
+          "width": 1365,
+          "height": 2048,
+          "filesize": 353245,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/DSC7423-1365x2048.jpg"
+        },
+        "full": {
+          "file": "DSC7423-scaled.jpg",
+          "width": 1707,
+          "height": 2560,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/DSC7423-scaled.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "5",
+        "credit": "",
+        "camera": "ILCE-7RM5",
+        "caption": "",
+        "created_timestamp": "1740766689",
+        "copyright": "",
+        "focal_length": "83",
+        "iso": "6400",
+        "shutter_speed": "0.00625",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      },
+      "original_image": "DSC7423.jpg"
+    },
+    "post": null,
+    "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/DSC7423-scaled.jpg",
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/49",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=49"
+        }
+      ]
+    }
+  },
+  {
+    "id": 48,
+    "date": "2026-02-11T01:41:10",
+    "date_gmt": "2026-02-11T01:41:10",
+    "guid": {
+      "rendered": "http://todomotoboulder.com/wp-content/uploads/2026/02/DSC7650.jpg"
+    },
+    "modified": "2026-02-11T01:41:10",
+    "modified_gmt": "2026-02-11T01:41:10",
+    "slug": "_dsc7650",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://todomotoboulder.com/_dsc7650/",
+    "title": {
+      "rendered": "_DSC7650"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "class_list": [
+      "post-48",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry"
+    ],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://todomotoboulder.com/wp-content/uploads/2026/02/DSC7650-scaled.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"200\" height=\"300\" src=\"https://todomotoboulder.com/wp-content/uploads/2026/02/DSC7650-200x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://todomotoboulder.com/wp-content/uploads/2026/02/DSC7650-200x300.jpg 200w, https://todomotoboulder.com/wp-content/uploads/2026/02/DSC7650-683x1024.jpg 683w, https://todomotoboulder.com/wp-content/uploads/2026/02/DSC7650-768x1152.jpg 768w, https://todomotoboulder.com/wp-content/uploads/2026/02/DSC7650-1024x1536.jpg 1024w, https://todomotoboulder.com/wp-content/uploads/2026/02/DSC7650-1365x2048.jpg 1365w, https://todomotoboulder.com/wp-content/uploads/2026/02/DSC7650-scaled.jpg 1707w\" sizes=\"(max-width: 200px) 100vw, 200px\" /></a></p>\n"
+    },
+    "caption": {
+      "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/jpeg",
+    "media_details": {
+      "width": 1707,
+      "height": 2560,
+      "file": "2026/02/DSC7650-scaled.jpg",
+      "filesize": 368407,
+      "sizes": {
+        "medium": {
+          "file": "DSC7650-200x300.jpg",
+          "width": 200,
+          "height": 300,
+          "filesize": 45845,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/DSC7650-200x300.jpg"
+        },
+        "large": {
+          "file": "DSC7650-683x1024.jpg",
+          "width": 683,
+          "height": 1024,
+          "filesize": 120868,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/DSC7650-683x1024.jpg"
+        },
+        "thumbnail": {
+          "file": "DSC7650-150x150.jpg",
+          "width": 150,
+          "height": 150,
+          "filesize": 37473,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/DSC7650-150x150.jpg"
+        },
+        "medium_large": {
+          "file": "DSC7650-768x1152.jpg",
+          "width": 768,
+          "height": 1152,
+          "filesize": 137133,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/DSC7650-768x1152.jpg"
+        },
+        "1536x1536": {
+          "file": "DSC7650-1024x1536.jpg",
+          "width": 1024,
+          "height": 1536,
+          "filesize": 191038,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/DSC7650-1024x1536.jpg"
+        },
+        "2048x2048": {
+          "file": "DSC7650-1365x2048.jpg",
+          "width": 1365,
+          "height": 2048,
+          "filesize": 273960,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/DSC7650-1365x2048.jpg"
+        },
+        "full": {
+          "file": "DSC7650-scaled.jpg",
+          "width": 1707,
+          "height": 2560,
+          "mime_type": "image/jpeg",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/DSC7650-scaled.jpg"
+        }
+      },
+      "image_meta": {
+        "aperture": "4",
+        "credit": "",
+        "camera": "ILCE-7RM5",
+        "caption": "",
+        "created_timestamp": "1741131547",
+        "copyright": "",
+        "focal_length": "36",
+        "iso": "500",
+        "shutter_speed": "0.00625",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      },
+      "original_image": "DSC7650.jpg"
+    },
+    "post": null,
+    "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/DSC7650-scaled.jpg",
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/48",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=48"
+        }
+      ]
+    }
+  },
+  {
+    "id": 47,
+    "date": "2026-02-11T01:36:05",
+    "date_gmt": "2026-02-11T01:36:05",
+    "guid": {
+      "rendered": "http://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-03.png"
+    },
+    "modified": "2026-02-11T01:36:05",
+    "modified_gmt": "2026-02-11T01:36:05",
+    "slug": "todomoto03-03",
+    "status": "inherit",
+    "type": "attachment",
+    "link": "https://todomotoboulder.com/todomoto03-03/",
+    "title": {
+      "rendered": "TodoMoto03-03"
+    },
+    "author": 1,
+    "featured_media": 0,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "class_list": [
+      "post-47",
+      "attachment",
+      "type-attachment",
+      "status-inherit",
+      "hentry"
+    ],
+    "description": {
+      "rendered": "<p class=\"attachment\"><a href='https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-03-scaled.png'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"222\" src=\"https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-03-300x222.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-03-300x222.png 300w, https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-03-1024x758.png 1024w, https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-03-768x569.png 768w, https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-03-1536x1138.png 1536w, https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-03-2048x1517.png 2048w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></a></p>\n"
+    },
+    "caption": {
+      "rendered": ""
+    },
+    "alt_text": "",
+    "media_type": "image",
+    "mime_type": "image/png",
+    "media_details": {
+      "width": 2560,
+      "height": 1896,
+      "file": "2026/02/TodoMoto03-03-scaled.png",
+      "filesize": 123132,
+      "sizes": {
+        "medium": {
+          "file": "TodoMoto03-03-300x222.png",
+          "width": 300,
+          "height": 222,
+          "filesize": 9283,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-03-300x222.png"
+        },
+        "large": {
+          "file": "TodoMoto03-03-1024x758.png",
+          "width": 1024,
+          "height": 758,
+          "filesize": 41123,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-03-1024x758.png"
+        },
+        "thumbnail": {
+          "file": "TodoMoto03-03-150x150.png",
+          "width": 150,
+          "height": 150,
+          "filesize": 5530,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-03-150x150.png"
+        },
+        "medium_large": {
+          "file": "TodoMoto03-03-768x569.png",
+          "width": 768,
+          "height": 569,
+          "filesize": 29413,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-03-768x569.png"
+        },
+        "1536x1536": {
+          "file": "TodoMoto03-03-1536x1138.png",
+          "width": 1536,
+          "height": 1138,
+          "filesize": 67105,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-03-1536x1138.png"
+        },
+        "2048x2048": {
+          "file": "TodoMoto03-03-2048x1517.png",
+          "width": 2048,
+          "height": 1517,
+          "filesize": 94404,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-03-2048x1517.png"
+        },
+        "full": {
+          "file": "TodoMoto03-03-scaled.png",
+          "width": 2560,
+          "height": 1896,
+          "mime_type": "image/png",
+          "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-03-scaled.png"
+        }
+      },
+      "image_meta": {
+        "aperture": "0",
+        "credit": "",
+        "camera": "",
+        "caption": "",
+        "created_timestamp": "0",
+        "copyright": "",
+        "focal_length": "0",
+        "iso": "0",
+        "shutter_speed": "0",
+        "title": "",
+        "orientation": "0",
+        "keywords": []
+      },
+      "original_image": "TodoMoto03-03.png"
+    },
+    "post": null,
+    "source_url": "https://todomotoboulder.com/wp-content/uploads/2026/02/TodoMoto03-03-scaled.png",
+    "_links": {
+      "self": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media/47",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/media"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/types/attachment"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://todomotoboulder.com/wp-json/wp/v2/comments?post=47"
+        }
+      ]
+    }
+  }
+]

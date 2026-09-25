@@ -1,0 +1,82 @@
+---
+import { Image } from 'astro:assets';
+import Button from './Button.astro';
+import { site, telHref } from '../lib/site';
+import logo from '../assets/images/brand/logo-wordmark-cream.png';
+
+const links = [
+  { href: '/services/', label: 'Services' },
+  { href: '/who-we-are/', label: 'Who We Are' },
+  { href: '/contact-us/', label: 'Contact' },
+];
+const current = Astro.url.pathname;
+const isCurrent = (href: string) => current === href || (href !== '/' && current.startsWith(href));
+---
+
+<header class="sticky top-0 z-40 border-b border-line bg-charcoal/95 backdrop-blur">
+  <div class="mx-auto flex max-w-6xl items-center gap-6 px-4 py-3">
+    <a href="/" class="shrink-0" aria-label={`${site.name} home`}>
+      <Image src={logo} alt="" height={56} class="h-12 w-auto sm:h-14" loading="eager" />
+    </a>
+
+    <nav aria-label="Main" class="ml-auto hidden md:block">
+      <ul class="flex items-center gap-6 text-lg">
+        {
+          links.map((l) => (
+            <li>
+              <a
+                href={l.href}
+                aria-current={isCurrent(l.href) ? 'page' : undefined}
+                class="hover:text-flame aria-[current=page]:text-flame aria-[current=page]:underline aria-[current=page]:decoration-2"
+              >
+                {l.label}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </nav>
+
+    <Button href={telHref} class="ml-auto md:ml-0">
+      <svg aria-hidden="true" viewBox="0 0 24 24" class="size-5 fill-current"><path d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.57a1 1 0 0 1-.25 1z" /></svg>
+      <span class="hidden sm:inline">{site.phone}</span>
+      <span class="sm:hidden">Call</span>
+    </Button>
+
+    <!-- Mobile menu: native popover, no JavaScript. -->
+    <button
+      popovertarget="mobile-nav"
+      class="rounded-md p-2 hover:bg-surface md:hidden"
+      aria-label="Menu"
+    >
+      <svg aria-hidden="true" viewBox="0 0 24 24" class="size-7 stroke-current" fill="none" stroke-width="2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16" /></svg>
+    </button>
+  </div>
+
+  <nav
+    id="mobile-nav"
+    popover
+    aria-label="Main"
+    class="m-0 ml-auto h-dvh max-h-none w-72 max-w-[85vw] border-l border-line bg-ink p-6 text-cream backdrop:bg-black/60"
+  >
+    <button popovertarget="mobile-nav" popovertargetaction="hide" class="mb-6 ml-auto block rounded-md p-2 hover:bg-surface" aria-label="Close menu">
+      <svg aria-hidden="true" viewBox="0 0 24 24" class="size-7 stroke-current" fill="none" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18" /></svg>
+    </button>
+    <ul class="space-y-1 text-xl">
+      <li><a href="/" class="block rounded-md px-3 py-3 hover:bg-surface">Home</a></li>
+      {
+        links.map((l) => (
+          <li>
+            <a
+              href={l.href}
+              aria-current={isCurrent(l.href) ? 'page' : undefined}
+              class="block rounded-md px-3 py-3 hover:bg-surface aria-[current=page]:text-flame"
+            >
+              {l.label}
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </nav>
+</header>

@@ -1,0 +1,15 @@
+old_url,type,wp_id,words,new_url,action,notes
+/,home,611,47,/,keep,"Rebuild: add address, map link, services grid, reviews, real photos"
+/services/,index,79,54,/services/,keep,Grid of 7 services; generated from collection
+/services/motorcycle-diagnosis/,service,381,62,/services/motorcycle-diagnosis/,keep,Thin copy; expand
+/services/motorcycle-inspection/,service,389,57,/services/motorcycle-inspection/,keep,Thin copy; add what's checked as a list
+/services/motorcycle-oil-change/,service,358,78,/services/motorcycle-oil-change/,keep,Title has trailing space in WP
+/services/motorcycle-repair/,service,376,69,/services/motorcycle-repair/,keep,"H1 typo ""Col0rado"""
+/services/motorcycle-tire-change/,service,346,107,/services/motorcycle-tire-change/,keep,"Bib Mousse/Tubliss mention is a strong differentiator; expand"
+/services/scooter-and-vespa-service/,service,452,140,/services/scooter-and-vespa-service/,keep,
+/services/e-bike/,service,459,123,/services/e-bike/,keep,"Mentions Surron, Talaria, E-Ride Pro"
+,service,,58,/services/custom-fabrication/,new,"New page: custom builds, cafe racers and more"
+/who-we-are/,about,98,200,/who-we-are/,keep,Best copy on the site; needs team photos
+/contact-us/,contact,117,22,/contact-us/,keep,Form + map; add address/hours in text
+/author/granttodomotoboulder-com/,wp-author,,0,/,redirect 301,Exposes admin username; drop from new site
+/wp-sitemap.xml,wp-sitemap,,0,/sitemap-index.xml,redirect 301,Astro sitemap replaces it

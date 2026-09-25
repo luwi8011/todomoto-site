@@ -1,0 +1,19 @@
+---
+import { hoursRows } from '../lib/site';
+
+interface Props {
+  class?: string;
+}
+const { class: className } = Astro.props;
+---
+
+<dl class:list={['grid grid-cols-[auto_1fr] gap-x-6 gap-y-1.5', className]}>
+  {
+    hoursRows.map((row) => (
+      <>
+        <dt class="text-muted">{row.label}</dt>
+        <dd class:list={[row.value === 'Closed' && 'text-muted']}>{row.value}</dd>
+      </>
+    ))
+  }
+</dl>

@@ -1,0 +1,23 @@
+---
+import { getEntry, render } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import PageHeader from '../components/PageHeader.astro';
+import CtaBand from '../components/CtaBand.astro';
+import { site } from '../lib/site';
+
+const page = await getEntry('pages', 'who-we-are');
+if (!page) throw new Error('src/content/pages/who-we-are.md is missing');
+const { Content } = await render(page);
+---
+
+<Base title={page.data.title} description={page.data.description} image={page.data.image}>
+  <PageHeader title={page.data.heading ?? page.data.title} image={page.data.image} imageAlt={page.data.imageAlt}>
+    <p class="text-xl">Amber, Grant, and Spencer. {site.tagline}.</p>
+  </PageHeader>
+
+  <article class="prose-shop mx-auto mt-12 px-4">
+    <Content />
+  </article>
+
+  <div class="mt-24"><CtaBand title="Come ride in and say hi" text="Questions, repairs, or just talking bikes: our door is open." /></div>
+</Base>

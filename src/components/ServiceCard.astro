@@ -1,0 +1,46 @@
+---
+import { Image } from 'astro:assets';
+import type { CollectionEntry } from 'astro:content';
+import logoMark from '../assets/images/brand/logo-mark-cream.png';
+
+interface Props {
+  service: CollectionEntry<'services'>;
+  /** Two-up on phones: smaller title and padding. */
+  compact?: boolean;
+  /** Style guide only: label stand-in photos so they aren't mistaken for final ones. */
+  showPlaceholderBadge?: boolean;
+}
+
+const { service, compact = false, showPlaceholderBadge = false } = Astro.props;
+const { title, image, imageAlt, imagePlaceholder } = service.data;
+const href = `/services/${service.id}/`;
+---
+
+<a href={href} class="group relative block overflow-hidden rounded-lg border border-line bg-surface transition-colors hover:border-flame">
+  <div class="aspect-[4/3] overflow-hidden bg-ink">
+    {
+      image ? (
+        <Image
+          src={image}
+          alt={imageAlt ?? ''}
+          widths={[400, 640, 800]}
+          sizes={compact ? '(min-width: 1024px) 25vw, 50vw' : '(min-width: 1024px) 25vw, (min-width: 640px) 50vw, 100vw'}
+          class="size-full object-cover transition-transform duration-300 group-hover:scale-105"
+        />
+      ) : (
+        <div class="grid size-full place-items-center">
+          <Image src={logoMark} alt="" width={160} class="w-2/5 opacity-25" />
+        </div>
+      )
+    }
+  </div>
+  <div class:list={['flex items-center justify-between gap-3', compact ? 'p-3 sm:p-4' : 'p-4']}>
+    <h3 class:list={['font-bold', compact ? 'text-sm sm:text-lg' : 'text-lg']}>{title}</h3>
+    <span aria-hidden="true" class:list={['text-flame transition-transform group-hover:translate-x-1', compact && 'hidden sm:inline']}>→</span>
+  </div>
+  {
+    showPlaceholderBadge && imagePlaceholder && (
+      <span class="absolute top-2 left-2 rounded bg-ink/85 px-2 py-0.5 text-xs text-muted">stand-in photo</span>
+    )
+  }
+</a>
