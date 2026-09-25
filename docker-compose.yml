@@ -8,6 +8,8 @@ services:
   todomoto-site:
     build: .
     image: todomoto-site:preview
+    # Rebuild on every Portainer redeploy instead of reusing the old image.
+    pull_policy: build
     container_name: todomoto-site
     restart: unless-stopped
     network_mode: host
