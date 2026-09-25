@@ -1,6 +1,6 @@
 # Serves the built site inside the preview container. TLS is handled by Nginx Proxy Manager.
 server {
-    listen 80;
+    listen ${PORT};
     server_name _;
     root /usr/share/nginx/html;
     index index.html;

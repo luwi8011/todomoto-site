@@ -1,16 +1,15 @@
-# Preview copy of the site for the shop to review.
-#   docker compose up -d --build     build and start (re-run after every git pull)
-#   docker compose down              stop and remove
+# Preview copy of the site for the shop to review, deployed as a Portainer Git stack.
+# All settings live in stack.env (port and public address).
+#
+# Portainer doesn't use stack.env for ${...} substitution in this file, so nothing here is
+# templated: the build reads SITE_URL from stack.env directly, and nginx reads PORT at startup.
+# Host networking lets nginx listen on PORT without a ports: mapping.
 services:
   todomoto-site:
-    build:
-      context: .
-      args:
-        # The address the shop will visit (the Nginx Proxy Manager host). Used for share
-        # previews and canonical links. Change it before the first build.
-        SITE_URL: https://todomoto.wilsonfabrication.com
+    build: .
+    image: todomoto-site:preview
     container_name: todomoto-site
     restart: unless-stopped
-    ports:
-      # Nginx Proxy Manager forwards to <docker host IP>:8085. Change 8085 if it's taken.
-      - "8085:80"
+    network_mode: host
+    env_file:
+      - stack.env

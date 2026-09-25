@@ -1,0 +1,4 @@
+# Files read inside Linux containers must keep LF line endings on every checkout.
+stack.env text eol=lf
+Dockerfile text eol=lf
+deploy/* text eol=lf
