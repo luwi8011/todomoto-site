@@ -17,6 +17,19 @@ shop through Resend.
 always-pass Turnstile test secret and a fake Resend key, so a test submission ends with
 "couldn't be sent". Put a real Resend key there to send real email. Build first with
 `PUBLIC_TURNSTILE_SITE_KEY=1x00000000000000000000AA npm run build`.
+## Self-hosted preview (Docker + Nginx Proxy Manager)
+
+A review copy for the shop before the domain moves. The preview build turns off GA4 and
+Plausible, marks every page `noindex`, and the contact form replies "this is a preview, please
+call the shop" instead of sending (the real handler only runs on Cloudflare Pages).
+
+1. Set `SITE_URL` in `docker-compose.yml` to the preview address, and change the host port
+   (`8085`) if it's taken.
+2. On the Docker host: `docker compose up -d --build`
+3. Nginx Proxy Manager > Add Proxy Host: the preview domain, scheme `http`, forward to the
+   Docker host's IP and port `8085`; SSL tab: request a Let's Encrypt certificate, Force SSL.
+4. After changes: `git pull && docker compose up -d --build`
+
 
 ## Editing content
 

@@ -7,7 +7,8 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://todomotoboulder.com',
+  // Override with SITE_URL for a preview copy on another domain (canonical, share images).
+  site: process.env.SITE_URL || 'https://todomotoboulder.com',
   // Every WordPress URL ends in a slash; keeping it means no redirects are needed.
   trailingSlash: 'always',
 
@@ -25,6 +26,8 @@ export default defineConfig({
       // Public Turnstile widget key. Real key comes from the Cloudflare Pages build
       // environment; .env.development supplies Cloudflare's always-pass test key.
       PUBLIC_TURNSTILE_SITE_KEY: envField.string({ context: 'client', access: 'public' }),
+      // Preview copy for the shop to review: no analytics, every page noindex.
+      PREVIEW: envField.boolean({ context: 'server', access: 'public', default: false }),
     },
   },
 
